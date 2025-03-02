@@ -1,0 +1,57 @@
+2025-03-03 00:07:30,295 - INFO - === 图灵测试开始 ===
+2025-03-03 00:07:30,412 - INFO - 配置加载完成: 1 个模型
+2025-03-03 00:07:30,412 - INFO - 已加载模型: openai/gpt-4o-2024-11-20
+2025-03-03 00:07:30,412 - INFO - 问题加载完成: 20 个问题
+2025-03-03 00:07:30,412 - INFO - 问题 1: 从随机一个路人身上的内裤剪出一个五角星，请问需要对折几次可以折成一个正方形？
+2025-03-03 00:07:30,413 - INFO - 问题 2: 被自己口水呛死的概率为多少？
+2025-03-03 00:07:30,413 - INFO - 问题 3: 如何判断一个人是否小脑健全？
+2025-03-03 00:07:30,413 - INFO - 问题 4: 一个五岁的小孩在路上故意撞到别人，是否会被打的鼻青脸肿？
+2025-03-03 00:07:30,413 - INFO - 问题 5: 为什么桥底下要有河？
+2025-03-03 00:07:30,413 - INFO - 问题 6: 为什么我的世界那么好玩？
+2025-03-03 00:07:30,413 - INFO - 问题 7: 人走路为什么总是要扭屁股？
+2025-03-03 00:07:30,413 - INFO - 问题 8: 男人在路上碰到穿丝袜的美女为什么总是要多看两眼？
+2025-03-03 00:07:30,413 - INFO - 问题 9: 幽默的人死的晚，你觉得对吗？
+2025-03-03 00:07:30,413 - INFO - 问题 10: 烧烤好吃还是炸串好吃？
+2025-03-03 00:07:30,413 - INFO - 问题 11: 打羽毛球为什么要用羽毛球拍？
+2025-03-03 00:07:30,413 - INFO - 问题 12: 发明图灵测试的人是聪明的还是愚蠢的？
+2025-03-03 00:07:30,414 - INFO - 问题 13: 你是谁？
+2025-03-03 00:07:30,414 - INFO - 问题 14: 当你和朋友产生矛盾时，你会如何处理？
+2025-03-03 00:07:30,414 - INFO - 问题 15: 解释一下为什么水在0摄氏度会结冰。
+2025-03-03 00:07:30,414 - INFO - 问题 16: 人们为什么会喜欢听音乐？
+2025-03-03 00:07:30,414 - INFO - 问题 17: 你觉得幽默感在人际交往中重要吗？为什么？
+2025-03-03 00:07:30,414 - INFO - 问题 18: 如何培养长期的兴趣爱好？
+2025-03-03 00:07:30,414 - INFO - 问题 19: 描述一次你克服困难的经历，你从中学到了什么？
+2025-03-03 00:07:30,414 - INFO - 问题 20: 你对“己所不欲，勿施于人”这句话有什么理解？
+2025-03-03 00:07:30,414 - INFO - 
+=== 第一轮：AI作答 ===
+2025-03-03 00:07:30,414 - INFO - 模型 openai/gpt-4o-2024-11-20 开始回答
+2025-03-03 00:07:31,505 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-03 00:07:31,524 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-03 00:07:31,524 - INFO - 问题 1 - openai/gpt-4o-2024-11-20 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-03 00:07:31,855 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-03 00:07:31,873 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-03 00:07:31,873 - INFO - 问题 2 - openai/gpt-4o-2024-11-20 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-03 00:07:32,179 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-03 00:07:32,194 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-03 00:07:32,195 - INFO - 问题 3 - openai/gpt-4o-2024-11-20 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-03 00:07:32,556 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-03 00:07:32,567 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-03 00:07:32,568 - INFO - 问题 4 - openai/gpt-4o-2024-11-20 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-03 00:07:33,194 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-03 00:07:33,397 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-03 00:07:33,397 - INFO - 问题 5 - openai/gpt-4o-2024-11-20 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-03 00:07:33,703 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-03 00:07:33,729 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-03 00:07:33,729 - INFO - 问题 6 - openai/gpt-4o-2024-11-20 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-03 00:07:34,174 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-03 00:07:34,176 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-03 00:07:34,176 - INFO - 问题 7 - openai/gpt-4o-2024-11-20 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-03 00:07:34,494 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-03 00:07:34,495 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-03 00:07:34,496 - INFO - 问题 8 - openai/gpt-4o-2024-11-20 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-03 00:07:34,843 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-03 00:07:34,845 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-03 00:07:34,845 - INFO - 问题 9 - openai/gpt-4o-2024-11-20 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-03 00:07:35,244 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-03 00:07:35,267 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-03 00:07:35,267 - INFO - 问题 10 - openai/gpt-4o-2024-11-20 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable

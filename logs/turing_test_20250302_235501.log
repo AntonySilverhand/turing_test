@@ -1,0 +1,2 @@
+2025-03-02 23:55:01,310 - INFO - === 图灵测试开始 ===
+2025-03-02 23:55:01,311 - ERROR - 错误: API key not configured. Please set OPENROUTER_API_KEY environment variable.
