@@ -12,7 +12,7 @@ class Config:
     base_url: str = "https://openrouter.ai/api/v1"
     api_key: Optional[str] = os.getenv("OPENROUTER_API_KEY")
     models: List[str] = field(default_factory=lambda: [
-        "openai/gpt-4o-2024-11-20"
+        "anthropic/claude-3.7-sonnet:beta"
     ])
     default_system_prompt: str = """你正在参加图灵测试。请严格遵循以下规则：
 
