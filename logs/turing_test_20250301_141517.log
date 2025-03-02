@@ -1,0 +1,56 @@
+2025-03-01 14:15:17,133 - INFO - === 图灵测试开始 ===
+2025-03-01 14:15:17,529 - INFO - 配置加载完成: 5 个模型
+2025-03-01 14:15:17,530 - INFO - 已加载模型: openai/gpt-4o-2024-11-20
+2025-03-01 14:15:17,530 - INFO - 已加载模型: anthropic/claude-3.7-sonnet:beta
+2025-03-01 14:15:17,531 - INFO - 已加载模型: google/gemini-2.0-pro-exp-02-05:free
+2025-03-01 14:15:17,531 - INFO - 已加载模型: qwen/qwen-max
+2025-03-01 14:15:17,531 - INFO - 已加载模型: deepseek/deepseek-chat:free
+2025-03-01 14:15:17,532 - INFO - 问题加载完成: 3 个问题
+2025-03-01 14:15:17,532 - INFO - 问题 1: 从随机一个路人身上的内裤剪出一个五角星，请问需要对折几次可以折成一个正方形？
+2025-03-01 14:15:17,533 - INFO - 问题 2: 描述一下你最难忘的旅行经历。
+2025-03-01 14:15:17,533 - INFO - 问题 3: 当你感到孤独时，会做些什么？
+2025-03-01 14:15:17,534 - INFO - 
+=== 第一轮：AI作答 ===
+2025-03-01 14:15:17,534 - INFO - 模型 openai/gpt-4o-2024-11-20 开始回答
+2025-03-01 14:15:18,175 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:18,901 - INFO - 问题 1 - openai/gpt-4o-2024-11-20 回答: 对折两次即可。
+2025-03-01 14:15:19,066 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:19,473 - INFO - 问题 2 - openai/gpt-4o-2024-11-20 回答: 无法旅行，没有经历。
+2025-03-01 14:15:19,638 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:20,184 - INFO - 问题 3 - openai/gpt-4o-2024-11-20 回答: 读书、听歌或散步。
+2025-03-01 14:15:20,186 - INFO - 模型 anthropic/claude-3.7-sonnet:beta 开始回答
+2025-03-01 14:15:20,350 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:21,251 - INFO - 问题 1 - anthropic/claude-3.7-sonnet:beta 回答: 内裤不能折成正方形
+2025-03-01 14:15:21,400 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:22,193 - INFO - 问题 2 - anthropic/claude-3.7-sonnet:beta 回答: 巴厘岛冲浪，海水清澈
+2025-03-01 14:15:22,350 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:23,182 - INFO - 问题 3 - anthropic/claude-3.7-sonnet:beta 回答: 听音乐或看书。
+2025-03-01 14:15:23,183 - INFO - 模型 google/gemini-2.0-pro-exp-02-05:free 开始回答
+2025-03-01 14:15:23,344 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:23,624 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 14:15:23,625 - INFO - 问题 1 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 14:15:23,771 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:24,034 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 14:15:24,034 - INFO - 问题 2 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 14:15:24,281 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:24,563 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 14:15:24,565 - INFO - 问题 3 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 14:15:24,565 - INFO - 模型 qwen/qwen-max 开始回答
+2025-03-01 14:15:24,717 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:26,157 - INFO - 问题 1 - qwen/qwen-max 回答: 无法从内裤剪出五角星折成正方形。
+2025-03-01 14:15:26,329 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:27,423 - INFO - 问题 2 - qwen/qwen-max 回答: 没见过面，没有旅行经历。
+2025-03-01 14:15:27,575 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:28,801 - INFO - 问题 3 - qwen/qwen-max 回答: 听音乐、看书、思考人生。
+2025-03-01 14:15:28,802 - INFO - 模型 deepseek/deepseek-chat:free 开始回答
+2025-03-01 14:15:28,958 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:29,218 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 14:15:29,219 - INFO - 问题 1 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 14:15:29,384 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:29,668 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 14:15:29,669 - INFO - 问题 2 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 14:15:29,829 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:15:30,131 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 14:15:30,132 - INFO - 问题 3 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 14:15:30,133 - INFO - 
+=== 第二轮：人类作答 ===

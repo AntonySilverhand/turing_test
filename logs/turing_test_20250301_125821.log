@@ -1,0 +1,43 @@
+2025-03-01 12:58:21,892 - INFO - === 图灵测试开始 ===
+2025-03-01 12:58:22,350 - INFO - 配置加载完成: 5 个模型
+2025-03-01 12:58:22,352 - INFO - 已加载模型: openai/gpt-4o-2024-11-20
+2025-03-01 12:58:22,352 - INFO - 已加载模型: anthropic/claude-3.7-sonnet:beta
+2025-03-01 12:58:22,353 - INFO - 已加载模型: google/gemini-2.0-pro-exp-02-05:free
+2025-03-01 12:58:22,353 - INFO - 已加载模型: qwen/qwen-max
+2025-03-01 12:58:22,353 - INFO - 已加载模型: deepseek/deepseek-chat:free
+2025-03-01 12:58:22,354 - INFO - 问题加载完成: 2 个问题
+2025-03-01 12:58:22,355 - INFO - 问题 1: 生命的意义是什么？
+2025-03-01 12:58:22,355 - INFO - 问题 2: 从一个人的内裤上剪下一块三角形需要折多少次才能把它折成一个矩形？
+2025-03-01 12:58:48,359 - INFO - 
+=== 第 1 轮人类作答 ===
+2025-03-01 12:58:48,362 - INFO - 参与者: 庄烨
+2025-03-01 12:58:51,310 - INFO - 问题 1 - 庄烨 回答: 不知道
+2025-03-01 12:58:57,299 - INFO - 问题 2 - 庄烨 回答: 做不了
+2025-03-01 12:58:59,804 - INFO - 是否继续人类作答: y
+2025-03-01 12:59:02,451 - INFO - 
+=== 第 2 轮人类作答 ===
+2025-03-01 12:59:02,451 - INFO - 参与者: antony
+2025-03-01 12:59:02,636 - INFO - 问题 1 - antony 回答: 
+2025-03-01 12:59:04,863 - INFO - 问题 2 - antony 回答: 啊？
+2025-03-01 12:59:07,765 - INFO - 是否继续人类作答: n
+2025-03-01 12:59:07,766 - INFO - 第一轮结束，共有 2 位参与者: 庄烨, antony
+2025-03-01 12:59:07,766 - INFO - 
+=== 第二轮：AI作答 ===
+2025-03-01 12:59:07,767 - INFO - 模型 openai/gpt-4o-2024-11-20 开始回答
+2025-03-01 12:59:07,768 - INFO - 问题 1 - openai/gpt-4o-2024-11-20 回答: 这是openai/gpt-4o-2024-11-20的模拟回答 0
+2025-03-01 12:59:07,768 - INFO - 问题 2 - openai/gpt-4o-2024-11-20 回答: 这是openai/gpt-4o-2024-11-20的模拟回答 1
+2025-03-01 12:59:07,769 - INFO - 模型 anthropic/claude-3.7-sonnet:beta 开始回答
+2025-03-01 12:59:07,769 - INFO - 问题 1 - anthropic/claude-3.7-sonnet:beta 回答: 这是anthropic/claude-3.7-sonnet:beta的模拟回答 0
+2025-03-01 12:59:07,771 - INFO - 问题 2 - anthropic/claude-3.7-sonnet:beta 回答: 这是anthropic/claude-3.7-sonnet:beta的模拟回答 1
+2025-03-01 12:59:07,772 - INFO - 模型 google/gemini-2.0-pro-exp-02-05:free 开始回答
+2025-03-01 12:59:07,774 - INFO - 问题 1 - google/gemini-2.0-pro-exp-02-05:free 回答: 这是google/gemini-2.0-pro-exp-02-05:free的模拟回答 0
+2025-03-01 12:59:07,774 - INFO - 问题 2 - google/gemini-2.0-pro-exp-02-05:free 回答: 这是google/gemini-2.0-pro-exp-02-05:free的模拟回答 1
+2025-03-01 12:59:07,775 - INFO - 模型 qwen/qwen-max 开始回答
+2025-03-01 12:59:07,775 - INFO - 问题 1 - qwen/qwen-max 回答: 这是qwen/qwen-max的模拟回答 0
+2025-03-01 12:59:07,782 - INFO - 问题 2 - qwen/qwen-max 回答: 这是qwen/qwen-max的模拟回答 1
+2025-03-01 12:59:07,790 - INFO - 模型 deepseek/deepseek-chat:free 开始回答
+2025-03-01 12:59:07,791 - INFO - 问题 1 - deepseek/deepseek-chat:free 回答: 这是deepseek/deepseek-chat:free的模拟回答 0
+2025-03-01 12:59:07,791 - INFO - 问题 2 - deepseek/deepseek-chat:free 回答: 这是deepseek/deepseek-chat:free的模拟回答 1
+2025-03-01 12:59:07,791 - INFO - 
+=== 第三轮：判断测试 ===
+2025-03-01 12:59:07,793 - INFO - 开始第 1/5 轮测试: 人类 vs openai/gpt-4o-2024-11-20

@@ -1,0 +1,277 @@
+2025-03-01 19:32:02,898 - INFO - === 图灵测试开始 ===
+2025-03-01 19:32:03,344 - INFO - 配置加载完成: 5 个模型
+2025-03-01 19:32:03,344 - INFO - 已加载模型: openai/gpt-4o-2024-11-20
+2025-03-01 19:32:03,345 - INFO - 已加载模型: anthropic/claude-3.7-sonnet:beta
+2025-03-01 19:32:03,345 - INFO - 已加载模型: google/gemini-2.0-pro-exp-02-05:free
+2025-03-01 19:32:03,345 - INFO - 已加载模型: qwen/qwen-max
+2025-03-01 19:32:03,345 - INFO - 已加载模型: deepseek/deepseek-chat:free
+2025-03-01 19:32:03,347 - INFO - 问题加载完成: 20 个问题
+2025-03-01 19:32:03,347 - INFO - 问题 1: 从随机一个路人身上的内裤剪出一个五角星，请问需要对折几次可以折成一个正方形？
+2025-03-01 19:32:03,348 - INFO - 问题 2: 被自己口水呛死的概率为多少？
+2025-03-01 19:32:03,348 - INFO - 问题 3: 如何判断一个人是否小脑健全？
+2025-03-01 19:32:03,348 - INFO - 问题 4: 一个五岁的小孩在路上故意撞到别人，是否会被打的鼻青脸肿？
+2025-03-01 19:32:03,348 - INFO - 问题 5: 为什么桥底下要有河？
+2025-03-01 19:32:03,348 - INFO - 问题 6: 为什么我的世界那么好玩？
+2025-03-01 19:32:03,348 - INFO - 问题 7: 人走路为什么总是要扭屁股？
+2025-03-01 19:32:03,348 - INFO - 问题 8: 男人在路上碰到穿丝袜的美女为什么总是要多看两眼？
+2025-03-01 19:32:03,349 - INFO - 问题 9: 幽默的人死的晚，你觉得对吗？
+2025-03-01 19:32:03,349 - INFO - 问题 10: 烧烤好吃还是炸串好吃？
+2025-03-01 19:32:03,349 - INFO - 问题 11: 打羽毛球为什么要用羽毛球拍？
+2025-03-01 19:32:03,349 - INFO - 问题 12: 发明图灵测试的人是聪明的还是愚蠢的？
+2025-03-01 19:32:03,350 - INFO - 问题 13: 你是谁？
+2025-03-01 19:32:03,350 - INFO - 问题 14: 当你和朋友产生矛盾时，你会如何处理？
+2025-03-01 19:32:03,350 - INFO - 问题 15: 解释一下为什么水在0摄氏度会结冰。
+2025-03-01 19:32:03,350 - INFO - 问题 16: 人们为什么会喜欢听音乐？
+2025-03-01 19:32:03,350 - INFO - 问题 17: 你觉得幽默感在人际交往中重要吗？为什么？
+2025-03-01 19:32:03,350 - INFO - 问题 18: 如何培养长期的兴趣爱好？
+2025-03-01 19:32:03,351 - INFO - 问题 19: 描述一次你克服困难的经历，你从中学到了什么？
+2025-03-01 19:32:03,351 - INFO - 问题 20: 你对“己所不欲，勿施于人”这句话有什么理解？
+2025-03-01 19:32:03,353 - INFO - 
+=== 第一轮：AI作答 ===
+2025-03-01 19:32:03,353 - INFO - 模型 openai/gpt-4o-2024-11-20 开始回答
+2025-03-01 19:32:04,093 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:04,449 - INFO - 问题 1 - openai/gpt-4o-2024-11-20 回答: 一次即可。
+2025-03-01 19:32:04,619 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:05,133 - INFO - 问题 2 - openai/gpt-4o-2024-11-20 回答: 极低，几乎不可能。
+2025-03-01 19:32:05,277 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:05,720 - INFO - 问题 3 - openai/gpt-4o-2024-11-20 回答: 观察协调性和平衡能力表现。
+2025-03-01 19:32:05,865 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:06,375 - INFO - 问题 4 - openai/gpt-4o-2024-11-20 回答: 不会，大人会教育孩子。
+2025-03-01 19:32:06,516 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:06,922 - INFO - 问题 5 - openai/gpt-4o-2024-11-20 回答: 桥是为跨越河流而建。
+2025-03-01 19:32:07,074 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:07,812 - INFO - 问题 6 - openai/gpt-4o-2024-11-20 回答: 自由创造，无限可能。
+2025-03-01 19:32:07,969 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:08,613 - INFO - 问题 7 - openai/gpt-4o-2024-11-20 回答: 保持平衡和协调身体。
+2025-03-01 19:32:08,826 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:09,338 - INFO - 问题 8 - openai/gpt-4o-2024-11-20 回答: 吸引注意力，视觉本能反应。
+2025-03-01 19:32:09,489 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:10,034 - INFO - 问题 9 - openai/gpt-4o-2024-11-20 回答: 不一定，和健康相关。
+2025-03-01 19:32:10,205 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:10,615 - INFO - 问题 10 - openai/gpt-4o-2024-11-20 回答: 烧烤更好吃。
+2025-03-01 19:32:10,762 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:11,324 - INFO - 问题 11 - openai/gpt-4o-2024-11-20 回答: 因为羽毛球拍专为击打羽毛球设计！
+2025-03-01 19:32:11,476 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:11,841 - INFO - 问题 12 - openai/gpt-4o-2024-11-20 回答: 聪明的。
+2025-03-01 19:32:11,996 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:12,754 - INFO - 问题 13 - openai/gpt-4o-2024-11-20 回答: 我是人工智能助手。
+2025-03-01 19:32:12,903 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:13,411 - INFO - 问题 14 - openai/gpt-4o-2024-11-20 回答: 冷静沟通，解决问题。
+2025-03-01 19:32:13,550 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:14,074 - INFO - 问题 15 - openai/gpt-4o-2024-11-20 回答: 水分子运动减弱，形成固定晶体结构。
+2025-03-01 19:32:14,252 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:15,327 - INFO - 问题 16 - openai/gpt-4o-2024-11-20 回答: 音乐带来情感共鸣和愉悦。
+2025-03-01 19:32:15,476 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:16,318 - INFO - 问题 17 - openai/gpt-4o-2024-11-20 回答: 重要，能拉近关系，增添愉快氛围。
+2025-03-01 19:32:16,463 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:17,500 - INFO - 问题 18 - openai/gpt-4o-2024-11-20 回答: 坚持实践，多尝试，不断学习和享受过程。
+2025-03-01 19:32:17,668 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:18,039 - INFO - 问题 19 - openai/gpt-4o-2024-11-20 回答: 解决复杂问题，学会冷静分析！
+2025-03-01 19:32:18,198 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:18,725 - INFO - 问题 20 - openai/gpt-4o-2024-11-20 回答: 不要把自己不想要的强加给别人。
+2025-03-01 19:32:18,727 - INFO - 模型 anthropic/claude-3.7-sonnet:beta 开始回答
+2025-03-01 19:32:18,869 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:19,643 - INFO - 问题 1 - anthropic/claude-3.7-sonnet:beta 回答: 布料无法这样变形
+2025-03-01 19:32:19,777 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:20,412 - INFO - 问题 2 - anthropic/claude-3.7-sonnet:beta 回答: 几乎不可能。
+2025-03-01 19:32:20,577 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:21,352 - INFO - 问题 3 - anthropic/claude-3.7-sonnet:beta 回答: 手指鼻试验
+2025-03-01 19:32:21,491 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:22,182 - INFO - 问题 4 - anthropic/claude-3.7-sonnet:beta 回答: 可能会被批评但不该被打
+2025-03-01 19:32:22,410 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:23,241 - INFO - 问题 5 - anthropic/claude-3.7-sonnet:beta 回答: 河先有，桥后建
+2025-03-01 19:32:23,396 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:24,248 - INFO - 问题 6 - anthropic/claude-3.7-sonnet:beta 回答: 沙盒自由，创造无限可能。
+2025-03-01 19:32:24,501 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:25,171 - INFO - 问题 7 - anthropic/claude-3.7-sonnet:beta 回答: 平衡身体需要
+2025-03-01 19:32:25,379 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:26,013 - INFO - 问题 8 - anthropic/claude-3.7-sonnet:beta 回答: 视觉刺激引发本能反应
+2025-03-01 19:32:26,161 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:27,854 - INFO - 问题 9 - anthropic/claude-3.7-sonnet:beta 回答: 对，笑一笑更长寿。
+2025-03-01 19:32:28,009 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:29,101 - INFO - 问题 10 - anthropic/claude-3.7-sonnet:beta 回答: 烧烤好吃。
+2025-03-01 19:32:29,234 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:30,208 - INFO - 问题 11 - anthropic/claude-3.7-sonnet:beta 回答: 便于击打羽毛球。
+2025-03-01 19:32:30,352 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:30,981 - INFO - 问题 12 - anthropic/claude-3.7-sonnet:beta 回答: 相当聪明。
+2025-03-01 19:32:31,222 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:31,844 - INFO - 问题 13 - anthropic/claude-3.7-sonnet:beta 回答: 我是AI助手。
+2025-03-01 19:32:31,981 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:32,761 - INFO - 问题 14 - anthropic/claude-3.7-sonnet:beta 回答: 坦诚沟通，找出原因。
+2025-03-01 19:32:32,906 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:34,195 - INFO - 问题 15 - anthropic/claude-3.7-sonnet:beta 回答: 分子间引力增强导致固化。
+2025-03-01 19:32:34,342 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:35,047 - INFO - 问题 16 - anthropic/claude-3.7-sonnet:beta 回答: 愉悦感和情感共鸣
+2025-03-01 19:32:35,202 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:36,046 - INFO - 问题 17 - anthropic/claude-3.7-sonnet:beta 回答: 很重要，能拉近距离
+2025-03-01 19:32:36,188 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:36,878 - INFO - 问题 18 - anthropic/claude-3.7-sonnet:beta 回答: 坚持做，享受过程。
+2025-03-01 19:32:37,015 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:37,799 - INFO - 问题 19 - anthropic/claude-3.7-sonnet:beta 回答: 修电脑，连接错误。学会细心。
+2025-03-01 19:32:38,016 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:38,614 - INFO - 问题 20 - anthropic/claude-3.7-sonnet:beta 回答: 将心比心，尊重他人。
+2025-03-01 19:32:38,616 - INFO - 模型 google/gemini-2.0-pro-exp-02-05:free 开始回答
+2025-03-01 19:32:38,787 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:39,010 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:39,011 - INFO - 问题 1 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:39,154 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:39,379 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:39,379 - INFO - 问题 2 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:39,521 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:39,853 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:39,854 - INFO - 问题 3 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:40,019 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:40,243 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:40,244 - INFO - 问题 4 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:40,619 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:40,825 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:40,826 - INFO - 问题 5 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:40,967 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:41,188 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:41,189 - INFO - 问题 6 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:41,327 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:41,543 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:41,545 - INFO - 问题 7 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:41,696 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:41,869 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:41,870 - INFO - 问题 8 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:42,019 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:42,184 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:42,185 - INFO - 问题 9 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:42,338 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:42,537 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:42,538 - INFO - 问题 10 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:42,757 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:42,845 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:42,846 - INFO - 问题 11 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:42,984 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:42,993 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:42,994 - INFO - 问题 12 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:43,151 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:43,160 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:43,162 - INFO - 问题 13 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:43,311 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:43,321 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:43,323 - INFO - 问题 14 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:43,463 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:43,473 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:43,475 - INFO - 问题 15 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:43,625 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:43,631 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:43,632 - INFO - 问题 16 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:43,788 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:43,794 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:43,795 - INFO - 问题 17 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:43,955 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:43,964 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:43,965 - INFO - 问题 18 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:44,107 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:44,118 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:44,119 - INFO - 问题 19 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:44,275 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:44,287 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:32:44,292 - INFO - 问题 20 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:32:44,293 - INFO - 模型 qwen/qwen-max 开始回答
+2025-03-01 19:32:44,435 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:46,025 - INFO - 问题 1 - qwen/qwen-max 回答: 无法直接折成正方形，需要重新裁剪。
+2025-03-01 19:32:46,179 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:47,238 - INFO - 问题 2 - qwen/qwen-max 回答: 极低，几乎为零。
+2025-03-01 19:32:47,392 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:48,168 - INFO - 问题 3 - qwen/qwen-max 回答: 观察平衡感和协调性即可。
+2025-03-01 19:32:48,315 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:49,690 - INFO - 问题 4 - qwen/qwen-max 回答: 不会，大人通常不会打五岁小孩。
+2025-03-01 19:32:49,848 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:51,041 - INFO - 问题 5 - qwen/qwen-max 回答: 桥底下有河是因为河需要桥来跨越。
+2025-03-01 19:32:51,199 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:52,368 - INFO - 问题 6 - qwen/qwen-max 回答: 自由创造和探索让人着迷。
+2025-03-01 19:32:52,504 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:53,674 - INFO - 问题 7 - qwen/qwen-max 回答: 保持平衡，自然摆动，减少疲劳。
+2025-03-01 19:32:53,819 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:54,876 - INFO - 问题 8 - qwen/qwen-max 回答: 因为视觉吸引，本能反应。
+2025-03-01 19:32:55,017 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:56,177 - INFO - 问题 9 - qwen/qwen-max 回答: 不对。寿命与性格无直接关系。
+2025-03-01 19:32:56,319 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:57,513 - INFO - 问题 10 - qwen/qwen-max 回答: 烧烤更好吃，味道香浓有特色。
+2025-03-01 19:32:57,663 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:58,514 - INFO - 问题 11 - qwen/qwen-max 回答: 用球拍能更好地击打球，控制方向和力度。
+2025-03-01 19:32:58,667 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:32:59,860 - INFO - 问题 12 - qwen/qwen-max 回答: 聪明的。图灵测试是人工智能重要里程碑。
+2025-03-01 19:33:00,015 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:01,177 - INFO - 问题 13 - qwen/qwen-max 回答: 我是AI助手，专为对话设计。
+2025-03-01 19:33:01,359 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:02,100 - INFO - 问题 14 - qwen/qwen-max 回答: 直接沟通，快速解决问题。
+2025-03-01 19:33:02,235 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:03,673 - INFO - 问题 15 - qwen/qwen-max 回答: 水分子遇冷减速，形成固态冰晶结构。
+2025-03-01 19:33:03,899 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:05,141 - INFO - 问题 16 - qwen/qwen-max 回答: 音乐能触动情感，带来快乐和共鸣。
+2025-03-01 19:33:05,294 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:06,518 - INFO - 问题 17 - qwen/qwen-max 回答: 重要。幽默能拉近距离，化解尴尬。
+2025-03-01 19:33:06,658 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:07,917 - INFO - 问题 18 - qwen/qwen-max 回答: 选择热爱的领域，持续投入时间，不断学习精进。
+2025-03-01 19:33:08,051 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:08,801 - INFO - 问题 19 - qwen/qwen-max 回答: 学会坚持，不断尝试，最终成功。
+2025-03-01 19:33:08,954 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:09,849 - INFO - 问题 20 - qwen/qwen-max 回答: 做人要将心比心，不强加于人。
+2025-03-01 19:33:09,850 - INFO - 模型 deepseek/deepseek-chat:free 开始回答
+2025-03-01 19:33:09,998 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:10,181 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:10,182 - INFO - 问题 1 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:10,314 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:10,481 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:10,482 - INFO - 问题 2 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:10,636 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:10,840 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:10,840 - INFO - 问题 3 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:10,992 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:11,186 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:11,187 - INFO - 问题 4 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:11,340 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:11,516 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:11,517 - INFO - 问题 5 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:11,656 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:11,889 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:11,889 - INFO - 问题 6 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:12,051 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:12,299 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:12,300 - INFO - 问题 7 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:12,456 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:12,656 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:12,657 - INFO - 问题 8 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:12,873 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:13,040 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:13,041 - INFO - 问题 9 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:13,199 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:13,389 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:13,390 - INFO - 问题 10 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:13,542 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:13,659 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:13,660 - INFO - 问题 11 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:13,798 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:13,806 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:13,806 - INFO - 问题 12 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:13,948 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:13,958 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:13,958 - INFO - 问题 13 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:14,106 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:14,128 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:14,129 - INFO - 问题 14 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:14,269 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:14,281 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:14,281 - INFO - 问题 15 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:14,416 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:14,421 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:14,422 - INFO - 问题 16 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:14,579 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:14,580 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:14,581 - INFO - 问题 17 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:14,725 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:14,731 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:14,732 - INFO - 问题 18 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:14,869 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:14,876 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:14,876 - INFO - 问题 19 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:15,037 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 19:33:15,047 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 19:33:15,048 - INFO - 问题 20 - deepseek/deepseek-chat:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 19:33:15,049 - INFO - 
+=== 第二轮：人类作答 ===

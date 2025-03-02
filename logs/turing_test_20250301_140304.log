@@ -1,0 +1,60 @@
+2025-03-01 14:03:04,841 - INFO - === 图灵测试开始 ===
+2025-03-01 14:03:05,276 - INFO - 配置加载完成: 5 个模型
+2025-03-01 14:03:05,277 - INFO - 已加载模型: openai/gpt-4o-2024-11-20
+2025-03-01 14:03:05,277 - INFO - 已加载模型: anthropic/claude-3.7-sonnet:beta
+2025-03-01 14:03:05,278 - INFO - 已加载模型: google/gemini-2.0-pro-exp-02-05:free
+2025-03-01 14:03:05,278 - INFO - 已加载模型: qwen/qwen-max
+2025-03-01 14:03:05,279 - INFO - 已加载模型: deepseek/deepseek-chat:free
+2025-03-01 14:03:05,280 - INFO - 问题加载完成: 20 个问题
+2025-03-01 14:03:05,280 - INFO - 问题 1: 从随机一个路人身上的内裤剪出一个五角星，请问需要对折几次可以折成一个正方形？
+2025-03-01 14:03:05,282 - INFO - 问题 2: 描述一下你最难忘的旅行经历。
+2025-03-01 14:03:05,282 - INFO - 问题 3: 当你感到孤独时，会做些什么？
+2025-03-01 14:03:05,284 - INFO - 问题 4: 解释一下为什么太阳从东方升起，西方落下。
+2025-03-01 14:03:05,285 - INFO - 问题 5: 如何向一个五岁小孩解释什么是互联网？
+2025-03-01 14:03:05,285 - INFO - 问题 6: 你能说出三种中国传统节日的习俗吗？
+2025-03-01 14:03:05,286 - INFO - 问题 7: 如果有机会穿越，你想去哪个时代，为什么？
+2025-03-01 14:03:05,286 - INFO - 问题 8: 讲述一个你最近听到的有趣笑话。
+2025-03-01 14:03:05,286 - INFO - 问题 9: 谈谈你对人工智能未来发展的看法。
+2025-03-01 14:03:05,287 - INFO - 问题 10: 为什么人们会喜欢听音乐？
+2025-03-01 14:03:05,287 - INFO - 问题 11: 请描述一下你眼中的理想生活。
+2025-03-01 14:03:05,288 - INFO - 问题 12: 如何在不使用导航的情况下，从一个陌生城市的机场到达市中心？
+2025-03-01 14:03:05,288 - INFO - 问题 13: 你能理解“当局者迷，旁观者清”这句话的含义吗？请举例说明。
+2025-03-01 14:03:05,288 - INFO - 问题 14: 当你和朋友产生矛盾时，你会如何处理？
+2025-03-01 14:03:05,289 - INFO - 问题 15: 解释一下为什么水在0摄氏度会结冰。
+2025-03-01 14:03:05,290 - INFO - 问题 16: 介绍一部你最喜欢的电影，并说明喜欢的原因。
+2025-03-01 14:03:05,290 - INFO - 问题 17: 你觉得幽默感在人际交往中重要吗？为什么？
+2025-03-01 14:03:05,290 - INFO - 问题 18: 如何培养长期的兴趣爱好？
+2025-03-01 14:03:05,291 - INFO - 问题 19: 描述一次你克服困难的经历，你从中学到了什么？
+2025-03-01 14:03:05,291 - INFO - 问题 20: 你对“己所不欲，勿施于人”这句话有什么理解？
+2025-03-01 14:03:05,292 - INFO - 
+=== 第一轮：AI作答 ===
+2025-03-01 14:03:05,292 - INFO - 模型 openai/gpt-4o-2024-11-20 开始回答
+2025-03-01 14:03:05,901 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:06,666 - INFO - 问题 1 - openai/gpt-4o-2024-11-20 回答: 两次对折即可。
+2025-03-01 14:03:06,858 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:07,385 - INFO - 问题 2 - openai/gpt-4o-2024-11-20 回答: 无法分享个人经历。
+2025-03-01 14:03:07,575 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:08,038 - INFO - 问题 3 - openai/gpt-4o-2024-11-20 回答: 听音乐或看书静心。
+2025-03-01 14:03:08,212 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:08,697 - INFO - 问题 4 - openai/gpt-4o-2024-11-20 回答: 地球自西向东自转导致的。
+2025-03-01 14:03:08,868 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:09,321 - INFO - 问题 5 - openai/gpt-4o-2024-11-20 回答: 互联网是电脑之间聊天的网络。
+2025-03-01 14:03:09,501 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:09,998 - INFO - 问题 6 - openai/gpt-4o-2024-11-20 回答: 春节贴对联，中秋赏月，端午赛龙舟。
+2025-03-01 14:03:10,259 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:10,747 - INFO - 问题 7 - openai/gpt-4o-2024-11-20 回答: 未来，科技发展无限可能。
+2025-03-01 14:03:10,910 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:11,567 - INFO - 问题 8 - openai/gpt-4o-2024-11-20 回答: 为什么鸡过马路？去对面看看！
+2025-03-01 14:03:11,751 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:12,746 - INFO - 问题 9 - openai/gpt-4o-2024-11-20 回答: 人工智能未来会更智能、更广泛应用。
+2025-03-01 14:03:12,926 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:13,646 - INFO - 问题 10 - openai/gpt-4o-2024-11-20 回答: 音乐带来情感共鸣和愉悦感。
+2025-03-01 14:03:13,866 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:14,917 - INFO - 问题 11 - openai/gpt-4o-2024-11-20 回答: 平静舒适，自由自在，健康幸福，充满爱与希望。
+2025-03-01 14:03:15,078 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:15,597 - INFO - 问题 12 - openai/gpt-4o-2024-11-20 回答: 询问路人或跟随公共交通标识。
+2025-03-01 14:03:15,758 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:16,772 - INFO - 问题 13 - openai/gpt-4o-2024-11-20 回答: 当局者难察真相，旁观者更客观。例如，恋人吵架旁人劝解。
+2025-03-01 14:03:16,957 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 14:03:17,365 - INFO - 问题 14 - openai/gpt-4o-2024-11-20 回答: 冷静沟通，解决问题。
+2025-03-01 14:03:17,546 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"

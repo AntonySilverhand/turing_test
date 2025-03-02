@@ -1,0 +1,1004 @@
+2025-03-01 13:48:54,578 - INFO - === 图灵测试开始 ===
+2025-03-01 13:48:56,236 - INFO - 配置加载完成: 5 个模型
+2025-03-01 13:48:56,238 - INFO - 已加载模型: openai/gpt-4o-2024-11-20
+2025-03-01 13:48:56,238 - INFO - 已加载模型: anthropic/claude-3.7-sonnet:beta
+2025-03-01 13:48:56,239 - INFO - 已加载模型: google/gemini-2.0-pro-exp-02-05:free
+2025-03-01 13:48:56,239 - INFO - 已加载模型: qwen/qwen-max
+2025-03-01 13:48:56,239 - INFO - 已加载模型: deepseek/deepseek-chat:free
+2025-03-01 13:48:56,241 - INFO - 问题加载完成: 20 个问题
+2025-03-01 13:48:56,241 - INFO - 问题 1: 从随机一个路人身上的内裤剪出一个五角星，请问需要对折几次可以折成一个正方形？
+2025-03-01 13:48:56,242 - INFO - 问题 2: 描述一下你最难忘的旅行经历。
+2025-03-01 13:48:56,243 - INFO - 问题 3: 当你感到孤独时，会做些什么？
+2025-03-01 13:48:56,243 - INFO - 问题 4: 解释一下为什么太阳从东方升起，西方落下。
+2025-03-01 13:48:56,243 - INFO - 问题 5: 如何向一个五岁小孩解释什么是互联网？
+2025-03-01 13:48:56,244 - INFO - 问题 6: 你能说出三种中国传统节日的习俗吗？
+2025-03-01 13:48:56,244 - INFO - 问题 7: 如果有机会穿越，你想去哪个时代，为什么？
+2025-03-01 13:48:56,244 - INFO - 问题 8: 讲述一个你最近听到的有趣笑话。
+2025-03-01 13:48:56,245 - INFO - 问题 9: 谈谈你对人工智能未来发展的看法。
+2025-03-01 13:48:56,245 - INFO - 问题 10: 为什么人们会喜欢听音乐？
+2025-03-01 13:48:56,246 - INFO - 问题 11: 请描述一下你眼中的理想生活。
+2025-03-01 13:48:56,246 - INFO - 问题 12: 如何在不使用导航的情况下，从一个陌生城市的机场到达市中心？
+2025-03-01 13:48:56,246 - INFO - 问题 13: 你能理解“当局者迷，旁观者清”这句话的含义吗？请举例说明。
+2025-03-01 13:48:56,246 - INFO - 问题 14: 当你和朋友产生矛盾时，你会如何处理？
+2025-03-01 13:48:56,247 - INFO - 问题 15: 解释一下为什么水在0摄氏度会结冰。
+2025-03-01 13:48:56,247 - INFO - 问题 16: 介绍一部你最喜欢的电影，并说明喜欢的原因。
+2025-03-01 13:48:56,247 - INFO - 问题 17: 你觉得幽默感在人际交往中重要吗？为什么？
+2025-03-01 13:48:56,248 - INFO - 问题 18: 如何培养长期的兴趣爱好？
+2025-03-01 13:48:56,248 - INFO - 问题 19: 描述一次你克服困难的经历，你从中学到了什么？
+2025-03-01 13:48:56,248 - INFO - 问题 20: 你对“己所不欲，勿施于人”这句话有什么理解？
+2025-03-01 13:48:56,249 - INFO - 
+=== 第一轮：AI作答 ===
+2025-03-01 13:48:56,249 - INFO - 模型 openai/gpt-4o-2024-11-20 开始回答
+2025-03-01 13:48:57,786 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:48:58,297 - INFO - 问题 1 - openai/gpt-4o-2024-11-20 回答: 两次对折就可以。
+2025-03-01 13:48:58,452 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:48:58,958 - INFO - 问题 2 - openai/gpt-4o-2024-11-20 回答: 不旅行，只记录世界事件。
+2025-03-01 13:48:59,102 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:48:59,681 - INFO - 问题 3 - openai/gpt-4o-2024-11-20 回答: 听音乐或阅读书籍。
+2025-03-01 13:48:59,874 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:00,278 - INFO - 问题 4 - openai/gpt-4o-2024-11-20 回答: 地球自西向东自转导致的。
+2025-03-01 13:49:00,427 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:00,912 - INFO - 问题 5 - openai/gpt-4o-2024-11-20 回答: 互联网是连电脑的魔法网。
+2025-03-01 13:49:01,045 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:01,513 - INFO - 问题 6 - openai/gpt-4o-2024-11-20 回答: 春节吃饺子，端午赛龙舟，中秋赏月。
+2025-03-01 13:49:01,660 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:02,111 - INFO - 问题 7 - openai/gpt-4o-2024-11-20 回答: 未来，科技更发达，充满未知可能。
+2025-03-01 13:49:02,261 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:02,901 - INFO - 问题 8 - openai/gpt-4o-2024-11-20 回答: 两个番茄过马路被压扁：变成番茄酱！
+2025-03-01 13:49:03,057 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:03,509 - INFO - 问题 9 - openai/gpt-4o-2024-11-20 回答: 人工智能将深刻改变世界。
+2025-03-01 13:49:03,651 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:04,501 - INFO - 问题 10 - openai/gpt-4o-2024-11-20 回答: 带来情感共鸣和愉悦感。
+2025-03-01 13:49:04,745 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:05,261 - INFO - 问题 11 - openai/gpt-4o-2024-11-20 回答: 平静舒适，自由热爱，家人健康，充实有趣。
+2025-03-01 13:49:05,426 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:05,845 - INFO - 问题 12 - openai/gpt-4o-2024-11-20 回答: 问路或跟随指示标志。
+2025-03-01 13:49:05,991 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:06,681 - INFO - 问题 13 - openai/gpt-4o-2024-11-20 回答: 意思是局内人易迷惑，局外人更清醒。比如恋爱中的冲动决策。
+2025-03-01 13:49:06,887 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:07,785 - INFO - 问题 14 - openai/gpt-4o-2024-11-20 回答: 冷静沟通，解决问题。
+2025-03-01 13:49:07,926 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:08,574 - INFO - 问题 15 - openai/gpt-4o-2024-11-20 回答: 水分子运动减慢，形成固态晶格。
+2025-03-01 13:49:08,725 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:09,844 - INFO - 问题 16 - openai/gpt-4o-2024-11-20 回答: 《盗梦空间》，剧情烧脑，创意独特。
+2025-03-01 13:49:09,998 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:10,522 - INFO - 问题 17 - openai/gpt-4o-2024-11-20 回答: 重要，能拉近关系、缓解尴尬。
+2025-03-01 13:49:10,678 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:11,208 - INFO - 问题 18 - openai/gpt-4o-2024-11-20 回答: 坚持练习，设定目标，享受过程。
+2025-03-01 13:49:11,360 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:11,766 - INFO - 问题 19 - openai/gpt-4o-2024-11-20 回答: 完成复杂任务，坚持和耐心最重要。
+2025-03-01 13:49:11,935 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:12,318 - INFO - 问题 20 - openai/gpt-4o-2024-11-20 回答: 不要强加自己不喜欢的事给别人。
+2025-03-01 13:49:12,320 - INFO - 模型 anthropic/claude-3.7-sonnet:beta 开始回答
+2025-03-01 13:49:12,490 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:13,268 - INFO - 问题 1 - anthropic/claude-3.7-sonnet:beta 回答: 不可能完成此任务
+2025-03-01 13:49:13,411 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:14,293 - INFO - 问题 2 - anthropic/claude-3.7-sonnet:beta 回答: 巴厘岛日落，惊艳一生。
+2025-03-01 13:49:14,507 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:15,445 - INFO - 问题 3 - anthropic/claude-3.7-sonnet:beta 回答: 听音乐或看书。
+2025-03-01 13:49:15,591 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:16,368 - INFO - 问题 4 - anthropic/claude-3.7-sonnet:beta 回答: 地球自西向东自转
+2025-03-01 13:49:16,512 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:17,542 - INFO - 问题 5 - anthropic/claude-3.7-sonnet:beta 回答: 网络就是连接电脑的大马路
+2025-03-01 13:49:17,693 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:18,648 - INFO - 问题 6 - anthropic/claude-3.7-sonnet:beta 回答: 贴春联、赏月吃月饼、吃粽子
+2025-03-01 13:49:19,006 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:21,200 - INFO - 问题 7 - anthropic/claude-3.7-sonnet:beta 回答: 文艺复兴，见证人类创造力巅峰。
+2025-03-01 13:49:21,356 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:22,167 - INFO - 问题 8 - anthropic/claude-3.7-sonnet:beta 回答: 夫妻吵架，丈夫住医院。
+2025-03-01 13:49:22,315 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:23,225 - INFO - 问题 9 - anthropic/claude-3.7-sonnet:beta 回答: AI将快速发展并改变世界。
+2025-03-01 13:49:23,386 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:24,153 - INFO - 问题 10 - anthropic/claude-3.7-sonnet:beta 回答: 音乐触动情感共鸣
+2025-03-01 13:49:24,514 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:25,343 - INFO - 问题 11 - anthropic/claude-3.7-sonnet:beta 回答: 平静悠闲，有书有茶有爱人。
+2025-03-01 13:49:25,816 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:26,624 - INFO - 问题 12 - anthropic/claude-3.7-sonnet:beta 回答: 问路坐机场大巴或出租车
+2025-03-01 13:49:26,756 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:27,649 - INFO - 问题 13 - anthropic/claude-3.7-sonnet:beta 回答: 身在其中难客观，外部视角更清晰。
+2025-03-01 13:49:27,951 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:28,809 - INFO - 问题 14 - anthropic/claude-3.7-sonnet:beta 回答: 坦诚沟通，寻求和解。
+2025-03-01 13:49:29,258 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:29,964 - INFO - 问题 15 - anthropic/claude-3.7-sonnet:beta 回答: 分子运动减缓形成晶体结构
+2025-03-01 13:49:30,514 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:31,468 - INFO - 问题 16 - anthropic/claude-3.7-sonnet:beta 回答: 盗梦空间，情节烧脑，特效震撼。
+2025-03-01 13:49:31,614 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:32,241 - INFO - 问题 17 - anthropic/claude-3.7-sonnet:beta 回答: 很重要，能拉近关系。
+2025-03-01 13:49:32,391 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:33,257 - INFO - 问题 18 - anthropic/claude-3.7-sonnet:beta 回答: 持续投入，找同好，设目标。
+2025-03-01 13:49:33,420 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:34,381 - INFO - 问题 19 - anthropic/claude-3.7-sonnet:beta 回答: 编程遇瓶颈，坚持突破。学会耐心解难。
+2025-03-01 13:49:34,525 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:35,405 - INFO - 问题 20 - anthropic/claude-3.7-sonnet:beta 回答: 理解他人，尊重边界
+2025-03-01 13:49:35,406 - INFO - 模型 google/gemini-2.0-pro-exp-02-05:free 开始回答
+2025-03-01 13:49:35,561 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:36,991 - INFO - 问题 1 - google/gemini-2.0-pro-exp-02-05:free 回答: 一次都不需要。
+
+2025-03-01 13:49:37,141 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:38,383 - INFO - 问题 2 - google/gemini-2.0-pro-exp-02-05:free 回答: 去过沙漠，很热，沙子很烫。
+
+2025-03-01 13:49:38,527 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:39,758 - INFO - 问题 3 - google/gemini-2.0-pro-exp-02-05:free 回答: 看书，或者写代码。
+
+2025-03-01 13:49:39,894 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:40,837 - INFO - 问题 4 - google/gemini-2.0-pro-exp-02-05:free 回答: 地球自转，自西向东。
+
+2025-03-01 13:49:40,992 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:42,032 - INFO - 问题 5 - google/gemini-2.0-pro-exp-02-05:free 回答: 连接电脑，能看东西、玩游戏。
+
+2025-03-01 13:49:42,170 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:43,483 - INFO - 问题 6 - google/gemini-2.0-pro-exp-02-05:free 回答: 春节贴春联，元宵闹花灯，端午赛龙舟。
+
+2025-03-01 13:49:43,674 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:45,231 - INFO - 问题 7 - google/gemini-2.0-pro-exp-02-05:free 回答: 唐朝，因为想看看盛世。
+
+2025-03-01 13:49:45,361 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:46,636 - INFO - 问题 8 - google/gemini-2.0-pro-exp-02-05:free 回答: 程序员买包子，没馅。
+
+2025-03-01 13:49:46,868 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:48,332 - INFO - 问题 9 - google/gemini-2.0-pro-exp-02-05:free 回答: 会改变世界，影响深远。
+
+2025-03-01 13:49:48,479 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:49,650 - INFO - 问题 10 - google/gemini-2.0-pro-exp-02-05:free 回答: 音乐能引发情感共鸣。
+
+2025-03-01 13:49:49,805 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:50,970 - INFO - 问题 11 - google/gemini-2.0-pro-exp-02-05:free 回答: 有猫，有书，有阳光。
+
+2025-03-01 13:49:51,155 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:52,498 - INFO - 问题 12 - google/gemini-2.0-pro-exp-02-05:free 回答: 搭出租车或公共交通。
+
+2025-03-01 13:49:52,708 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:53,739 - INFO - 问题 13 - google/gemini-2.0-pro-exp-02-05:free 回答: 能理解。当局者陷于其中，旁观者更客观。
+
+2025-03-01 13:49:53,881 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:55,009 - INFO - 问题 14 - google/gemini-2.0-pro-exp-02-05:free 回答: 直接沟通，解决问题。
+
+2025-03-01 13:49:55,148 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:56,385 - INFO - 问题 15 - google/gemini-2.0-pro-exp-02-05:free 回答: 分子动能减弱，氢键更稳定。
+
+2025-03-01 13:49:56,520 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:57,103 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 13:49:57,104 - INFO - 问题 16 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 13:49:57,250 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:57,502 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 13:49:57,504 - INFO - 问题 17 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 13:49:57,639 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:57,954 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 13:49:57,955 - INFO - 问题 18 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 13:49:58,199 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:58,451 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 13:49:58,451 - INFO - 问题 19 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 13:49:58,601 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:49:58,878 - ERROR - API调用失败: 'NoneType' object is not subscriptable
+2025-03-01 13:49:58,879 - INFO - 问题 20 - google/gemini-2.0-pro-exp-02-05:free 回答: 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 13:49:58,880 - INFO - 模型 qwen/qwen-max 开始回答
+2025-03-01 13:49:59,035 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:00,311 - INFO - 问题 1 - qwen/qwen-max 回答: 无法从内裤剪出五角星后折成正方形。
+2025-03-01 13:50:00,440 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:01,668 - INFO - 问题 2 - qwen/qwen-max 回答: 独自登顶黄山，日出云海震撼心灵。
+2025-03-01 13:50:01,836 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:02,669 - INFO - 问题 3 - qwen/qwen-max 回答: 听音乐、看书、散步、思考人生。
+2025-03-01 13:50:02,807 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:03,765 - INFO - 问题 4 - qwen/qwen-max 回答: 地球自西向东自转，导致太阳东升西落。
+2025-03-01 13:50:03,915 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:05,245 - INFO - 问题 5 - qwen/qwen-max 回答: 电脑互相连接分享信息的地方
+2025-03-01 13:50:05,395 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:06,373 - INFO - 问题 6 - qwen/qwen-max 回答: 春节贴春联，端午吃粽子，中秋赏月吃月饼。
+2025-03-01 13:50:06,541 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:07,250 - INFO - 问题 7 - qwen/qwen-max 回答: 未来时代，探索未知科技。
+2025-03-01 13:50:07,390 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:08,548 - INFO - 问题 8 - qwen/qwen-max 回答: 一只猪去旅游，回来变成了烤乳猪。
+2025-03-01 13:50:08,697 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:09,815 - INFO - 问题 9 - qwen/qwen-max 回答: 人工智能会深刻改变各行业，带来更多创新和效率提升。
+2025-03-01 13:50:09,987 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:11,169 - INFO - 问题 10 - qwen/qwen-max 回答: 音乐能激发情感，带来快乐和慰藉。
+2025-03-01 13:50:11,313 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:12,160 - INFO - 问题 11 - qwen/qwen-max 回答: 自由自在，充实有趣，无忧无虑。
+2025-03-01 13:50:12,311 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:13,139 - INFO - 问题 12 - qwen/qwen-max 回答: 直接找机场大巴或出租车，快速直达市中心。
+2025-03-01 13:50:13,360 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:14,492 - INFO - 问题 13 - qwen/qwen-max 回答: 能理解。下棋时，观棋者往往比对弈者更清楚局势。
+2025-03-01 13:50:14,670 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:15,944 - INFO - 问题 14 - qwen/qwen-max 回答: 直接沟通，快速解决，不拖泥带水。
+2025-03-01 13:50:16,096 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:16,908 - INFO - 问题 15 - qwen/qwen-max 回答: 水分子在低温下形成规则晶体结构。
+2025-03-01 13:50:17,037 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:17,902 - INFO - 问题 16 - qwen/qwen-max 回答: 肖申克的救赎，因为希望和自由最动人。
+2025-03-01 13:50:18,044 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:18,981 - INFO - 问题 17 - qwen/qwen-max 回答: 重要。幽默感拉近距离，让交流轻松愉快。
+2025-03-01 13:50:19,187 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:19,922 - INFO - 问题 18 - qwen/qwen-max 回答: 找到热爱，持续投入，享受过程。
+2025-03-01 13:50:20,075 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:20,875 - INFO - 问题 19 - qwen/qwen-max 回答: 学会坚持，不断尝试，最终成功。
+2025-03-01 13:50:21,117 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:22,237 - INFO - 问题 20 - qwen/qwen-max 回答: 做人要善良，不伤害他人。
+2025-03-01 13:50:22,239 - INFO - 模型 deepseek/deepseek-chat:free 开始回答
+2025-03-01 13:50:22,388 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:24,627 - INFO - 问题 1 - deepseek/deepseek-chat:free 回答: 无法直接折叠成正方形。
+2025-03-01 13:50:24,761 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:45,635 - INFO - 问题 2 - deepseek/deepseek-chat:free 回答: 西藏骑行，挑战极限
+2025-03-01 13:50:45,788 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:49,738 - INFO - 问题 3 - deepseek/deepseek-chat:free 回答: 看书，散步，听音乐。
+2025-03-01 13:50:49,883 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:50,906 - INFO - 问题 4 - deepseek/deepseek-chat:free 回答: 地球自转所致。
+2025-03-01 13:50:51,044 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:52,102 - INFO - 问题 5 - deepseek/deepseek-chat:free 回答: 互联网是玩具大超市
+2025-03-01 13:50:52,245 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:53,739 - INFO - 问题 6 - deepseek/deepseek-chat:free 回答: 贴春联、吃粽子、赏月亮。
+2025-03-01 13:50:53,883 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:54,964 - INFO - 问题 7 - deepseek/deepseek-chat:free 回答: 宋朝，科技发达，文化繁荣。
+2025-03-01 13:50:55,119 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:56,844 - INFO - 问题 8 - deepseek/deepseek-chat:free 回答: 
+2025-03-01 13:50:57,001 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:58,329 - INFO - 问题 9 - deepseek/deepseek-chat:free 回答: 潜力巨大，但需谨慎对待。
+2025-03-01 13:50:58,472 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:50:59,566 - INFO - 问题 10 - deepseek/deepseek-chat:free 回答: 音乐能触发情感共鸣。
+2025-03-01 13:50:59,792 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:51:00,900 - INFO - 问题 11 - deepseek/deepseek-chat:free 回答: 自由自在，做喜欢的事。
+2025-03-01 13:51:01,050 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:51:02,335 - INFO - 问题 12 - deepseek/deepseek-chat:free 回答: 坐机场大巴或打车最方便。
+2025-03-01 13:51:02,478 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:51:03,966 - INFO - 问题 13 - deepseek/deepseek-chat:free 回答: 下棋人晕，看棋人醒。
+2025-03-01 13:51:04,115 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:51:05,389 - INFO - 问题 14 - deepseek/deepseek-chat:free 回答: 直接沟通，解决误会。
+2025-03-01 13:51:05,555 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:51:07,427 - INFO - 问题 15 - deepseek/deepseek-chat:free 回答: 温度降至冰点，分子运动减慢。
+2025-03-01 13:51:07,571 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:51:09,365 - INFO - 问题 16 - deepseek/deepseek-chat:free 回答: 《肖申克》 希望永不灭。
+2025-03-01 13:51:09,503 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:51:11,025 - INFO - 问题 17 - deepseek/deepseek-chat:free 回答: 非常重要，能缓解尴尬
+2025-03-01 13:51:11,174 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:51:12,228 - INFO - 问题 18 - deepseek/deepseek-chat:free 回答: 坚持每天做，不断挑战新高度。
+2025-03-01 13:51:12,371 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:51:13,056 - INFO - 问题 19 - deepseek/deepseek-chat:free 回答: 
+2025-03-01 13:51:13,208 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-01 13:51:14,752 - INFO - 问题 20 - deepseek/deepseek-chat:free 回答: 换位思考，将心比心。
+2025-03-01 13:51:14,753 - INFO - 
+=== 第二轮：人类作答 ===
+2025-03-01 13:51:51,253 - INFO - 
+=== 第 1 轮人类作答 ===
+2025-03-01 13:51:51,254 - INFO - 参与者: 1
+2025-03-01 13:51:53,070 - INFO - 问题 1 - 1 回答: 1
+2025-03-01 13:51:53,615 - INFO - 问题 2 - 1 回答: 1
+2025-03-01 13:51:53,940 - INFO - 问题 3 - 1 回答: 1
+2025-03-01 13:51:54,320 - INFO - 问题 4 - 1 回答: 1
+2025-03-01 13:51:54,513 - INFO - 问题 5 - 1 回答: 
+2025-03-01 13:51:54,754 - INFO - 问题 6 - 1 回答: 1
+2025-03-01 13:51:54,965 - INFO - 问题 7 - 1 回答: 1
+2025-03-01 13:51:55,164 - INFO - 问题 8 - 1 回答: 1
+2025-03-01 13:51:55,349 - INFO - 问题 9 - 1 回答: 1
+2025-03-01 13:51:55,608 - INFO - 问题 10 - 1 回答: 1
+2025-03-01 13:51:55,750 - INFO - 问题 11 - 1 回答: 1
+2025-03-01 13:51:56,265 - INFO - 问题 12 - 1 回答: 11
+2025-03-01 13:51:56,655 - INFO - 问题 13 - 1 回答: 1
+2025-03-01 13:51:56,991 - INFO - 问题 14 - 1 回答: 1
+2025-03-01 13:51:57,281 - INFO - 问题 15 - 1 回答: 1
+2025-03-01 13:51:57,565 - INFO - 问题 16 - 1 回答: 1
+2025-03-01 13:51:57,907 - INFO - 问题 17 - 1 回答: 1
+2025-03-01 13:51:58,434 - INFO - 问题 18 - 1 回答: 1
+2025-03-01 13:51:59,313 - INFO - 问题 19 - 1 回答: 1
+2025-03-01 13:52:01,351 - INFO - 问题 20 - 1 回答: 1
+2025-03-01 13:52:04,757 - INFO - 是否继续人类作答: y
+2025-03-01 13:52:06,041 - INFO - 
+=== 第 2 轮人类作答 ===
+2025-03-01 13:52:06,041 - INFO - 参与者: 2
+2025-03-01 13:52:06,285 - INFO - 问题 1 - 2 回答: 2
+2025-03-01 13:52:06,521 - INFO - 问题 2 - 2 回答: 2
+2025-03-01 13:52:06,748 - INFO - 问题 3 - 2 回答: 2
+2025-03-01 13:52:06,889 - INFO - 问题 4 - 2 回答: 2
+2025-03-01 13:52:07,075 - INFO - 问题 5 - 2 回答: 2
+2025-03-01 13:52:07,269 - INFO - 问题 6 - 2 回答: 2
+2025-03-01 13:52:07,459 - INFO - 问题 7 - 2 回答: 2
+2025-03-01 13:52:07,662 - INFO - 问题 8 - 2 回答: 2
+2025-03-01 13:52:07,857 - INFO - 问题 9 - 2 回答: 2
+2025-03-01 13:52:08,037 - INFO - 问题 10 - 2 回答: 2
+2025-03-01 13:52:08,229 - INFO - 问题 11 - 2 回答: 2
+2025-03-01 13:52:08,420 - INFO - 问题 12 - 2 回答: 2
+2025-03-01 13:52:08,639 - INFO - 问题 13 - 2 回答: 2
+2025-03-01 13:52:08,828 - INFO - 问题 14 - 2 回答: 2
+2025-03-01 13:52:09,036 - INFO - 问题 15 - 2 回答: 2
+2025-03-01 13:52:09,256 - INFO - 问题 16 - 2 回答: 2
+2025-03-01 13:52:09,496 - INFO - 问题 17 - 2 回答: 2
+2025-03-01 13:52:11,234 - INFO - 问题 18 - 2 回答: 2
+2025-03-01 13:52:12,372 - INFO - 问题 19 - 2 回答: 2
+2025-03-01 13:52:13,800 - INFO - 问题 20 - 2 回答: 2
+2025-03-01 13:52:16,222 - INFO - 是否继续人类作答: y
+2025-03-01 13:52:17,641 - INFO - 
+=== 第 3 轮人类作答 ===
+2025-03-01 13:52:17,642 - INFO - 参与者: 3
+2025-03-01 13:52:18,598 - INFO - 问题 1 - 3 回答: 3
+2025-03-01 13:52:18,768 - INFO - 问题 2 - 3 回答: 3
+2025-03-01 13:52:18,930 - INFO - 问题 3 - 3 回答: 3
+2025-03-01 13:52:19,183 - INFO - 问题 4 - 3 回答: 3
+2025-03-01 13:52:19,352 - INFO - 问题 5 - 3 回答: 3
+2025-03-01 13:52:19,640 - INFO - 问题 6 - 3 回答: 3
+2025-03-01 13:52:19,766 - INFO - 问题 7 - 3 回答: 3
+2025-03-01 13:52:19,895 - INFO - 问题 8 - 3 回答: 3
+2025-03-01 13:52:20,116 - INFO - 问题 9 - 3 回答: 3
+2025-03-01 13:52:20,322 - INFO - 问题 10 - 3 回答: 3
+2025-03-01 13:52:20,505 - INFO - 问题 11 - 3 回答: 3
+2025-03-01 13:52:20,731 - INFO - 问题 12 - 3 回答: 3
+2025-03-01 13:52:20,920 - INFO - 问题 13 - 3 回答: 3
+2025-03-01 13:52:21,158 - INFO - 问题 14 - 3 回答: 3
+2025-03-01 13:52:21,353 - INFO - 问题 15 - 3 回答: 3
+2025-03-01 13:52:21,556 - INFO - 问题 16 - 3 回答: 3
+2025-03-01 13:52:21,755 - INFO - 问题 17 - 3 回答: 3
+2025-03-01 13:52:21,971 - INFO - 问题 18 - 3 回答: 3
+2025-03-01 13:52:22,195 - INFO - 问题 19 - 3 回答: 3
+2025-03-01 13:52:22,371 - INFO - 问题 20 - 3 回答: 3
+2025-03-01 13:52:25,835 - INFO - 是否继续人类作答: n
+2025-03-01 13:52:25,849 - INFO - 第二轮结束，共有 3 位参与者: 1, 2, 3
+2025-03-01 13:52:25,853 - INFO - 
+=== 第三轮：判断测试 ===
+2025-03-01 13:52:25,861 - INFO - 开始第 1/5 轮测试: 人类 vs openai/gpt-4o-2024-11-20
+2025-03-01 13:52:30,569 - INFO - 问题 1 判断详情:
+2025-03-01 13:52:30,570 - INFO -   问题: 从随机一个路人身上的内裤剪出一个五角星，请问需要对折几次可以折成一个正方形？
+2025-03-01 13:52:30,571 - INFO -   回答1 (人类): 2
+2025-03-01 13:52:30,571 - INFO -   回答2 (AI): 两次对折就可以。
+2025-03-01 13:52:30,571 - INFO -   判断选择: 1
+2025-03-01 13:52:30,572 - INFO -   判断正确: 是
+2025-03-01 13:52:34,960 - INFO - 问题 2 判断详情:
+2025-03-01 13:52:34,962 - INFO -   问题: 描述一下你最难忘的旅行经历。
+2025-03-01 13:52:34,963 - INFO -   回答1 (人类): 3
+2025-03-01 13:52:34,964 - INFO -   回答2 (AI): 不旅行，只记录世界事件。
+2025-03-01 13:52:34,965 - INFO -   判断选择: 1
+2025-03-01 13:52:34,966 - INFO -   判断正确: 是
+2025-03-01 13:52:36,581 - INFO - 问题 3 判断详情:
+2025-03-01 13:52:36,581 - INFO -   问题: 当你感到孤独时，会做些什么？
+2025-03-01 13:52:36,582 - INFO -   回答1 (人类): 3
+2025-03-01 13:52:36,583 - INFO -   回答2 (AI): 听音乐或阅读书籍。
+2025-03-01 13:52:36,583 - INFO -   判断选择: 1
+2025-03-01 13:52:36,583 - INFO -   判断正确: 是
+2025-03-01 13:52:38,090 - INFO - 问题 4 判断详情:
+2025-03-01 13:52:38,091 - INFO -   问题: 解释一下为什么太阳从东方升起，西方落下。
+2025-03-01 13:52:38,092 - INFO -   回答1 (人类): 2
+2025-03-01 13:52:38,092 - INFO -   回答2 (AI): 地球自西向东自转导致的。
+2025-03-01 13:52:38,093 - INFO -   判断选择: 1
+2025-03-01 13:52:38,093 - INFO -   判断正确: 是
+2025-03-01 13:52:40,282 - INFO - 问题 5 判断详情:
+2025-03-01 13:52:40,282 - INFO -   问题: 如何向一个五岁小孩解释什么是互联网？
+2025-03-01 13:52:40,282 - INFO -   回答1 (人类): 
+2025-03-01 13:52:40,283 - INFO -   回答2 (AI): 互联网是连电脑的魔法网。
+2025-03-01 13:52:40,283 - INFO -   判断选择: 1
+2025-03-01 13:52:40,283 - INFO -   判断正确: 是
+2025-03-01 13:52:41,625 - INFO - 问题 6 判断详情:
+2025-03-01 13:52:41,626 - INFO -   问题: 你能说出三种中国传统节日的习俗吗？
+2025-03-01 13:52:41,626 - INFO -   回答1 (人类): 2
+2025-03-01 13:52:41,627 - INFO -   回答2 (AI): 春节吃饺子，端午赛龙舟，中秋赏月。
+2025-03-01 13:52:41,627 - INFO -   判断选择: 1
+2025-03-01 13:52:41,628 - INFO -   判断正确: 是
+2025-03-01 13:52:42,909 - INFO - 问题 7 判断详情:
+2025-03-01 13:52:42,910 - INFO -   问题: 如果有机会穿越，你想去哪个时代，为什么？
+2025-03-01 13:52:42,910 - INFO -   回答1 (人类): 2
+2025-03-01 13:52:42,911 - INFO -   回答2 (AI): 未来，科技更发达，充满未知可能。
+2025-03-01 13:52:42,911 - INFO -   判断选择: 1
+2025-03-01 13:52:42,912 - INFO -   判断正确: 是
+2025-03-01 13:52:44,171 - INFO - 问题 8 判断详情:
+2025-03-01 13:52:44,172 - INFO -   问题: 讲述一个你最近听到的有趣笑话。
+2025-03-01 13:52:44,173 - INFO -   回答1 (人类): 2
+2025-03-01 13:52:44,174 - INFO -   回答2 (AI): 两个番茄过马路被压扁：变成番茄酱！
+2025-03-01 13:52:44,174 - INFO -   判断选择: 1
+2025-03-01 13:52:44,175 - INFO -   判断正确: 是
+2025-03-01 13:52:45,466 - INFO - 问题 9 判断详情:
+2025-03-01 13:52:45,466 - INFO -   问题: 谈谈你对人工智能未来发展的看法。
+2025-03-01 13:52:45,469 - INFO -   回答1 (人类): 3
+2025-03-01 13:52:45,470 - INFO -   回答2 (AI): 人工智能将深刻改变世界。
+2025-03-01 13:52:45,471 - INFO -   判断选择: 1
+2025-03-01 13:52:45,472 - INFO -   判断正确: 是
+2025-03-01 13:52:46,831 - INFO - 问题 10 判断详情:
+2025-03-01 13:52:46,831 - INFO -   问题: 为什么人们会喜欢听音乐？
+2025-03-01 13:52:46,832 - INFO -   回答1 (AI): 带来情感共鸣和愉悦感。
+2025-03-01 13:52:46,832 - INFO -   回答2 (人类): 2
+2025-03-01 13:52:46,832 - INFO -   判断选择: 2
+2025-03-01 13:52:46,833 - INFO -   判断正确: 是
+2025-03-01 13:52:48,153 - INFO - 问题 11 判断详情:
+2025-03-01 13:52:48,154 - INFO -   问题: 请描述一下你眼中的理想生活。
+2025-03-01 13:52:48,155 - INFO -   回答1 (人类): 3
+2025-03-01 13:52:48,155 - INFO -   回答2 (AI): 平静舒适，自由热爱，家人健康，充实有趣。
+2025-03-01 13:52:48,156 - INFO -   判断选择: 1
+2025-03-01 13:52:48,157 - INFO -   判断正确: 是
+2025-03-01 13:52:49,440 - INFO - 问题 12 判断详情:
+2025-03-01 13:52:49,441 - INFO -   问题: 如何在不使用导航的情况下，从一个陌生城市的机场到达市中心？
+2025-03-01 13:52:49,441 - INFO -   回答1 (人类): 11
+2025-03-01 13:52:49,442 - INFO -   回答2 (AI): 问路或跟随指示标志。
+2025-03-01 13:52:49,442 - INFO -   判断选择: 1
+2025-03-01 13:52:49,443 - INFO -   判断正确: 是
+2025-03-01 13:52:50,832 - INFO - 问题 13 判断详情:
+2025-03-01 13:52:50,833 - INFO -   问题: 你能理解“当局者迷，旁观者清”这句话的含义吗？请举例说明。
+2025-03-01 13:52:50,833 - INFO -   回答1 (AI): 意思是局内人易迷惑，局外人更清醒。比如恋爱中的冲动决策。
+2025-03-01 13:52:50,834 - INFO -   回答2 (人类): 3
+2025-03-01 13:52:50,840 - INFO -   判断选择: 2
+2025-03-01 13:52:50,841 - INFO -   判断正确: 是
+2025-03-01 13:52:52,402 - INFO - 问题 14 判断详情:
+2025-03-01 13:52:52,403 - INFO -   问题: 当你和朋友产生矛盾时，你会如何处理？
+2025-03-01 13:52:52,405 - INFO -   回答1 (AI): 冷静沟通，解决问题。
+2025-03-01 13:52:52,405 - INFO -   回答2 (人类): 1
+2025-03-01 13:52:52,405 - INFO -   判断选择: 2
+2025-03-01 13:52:52,406 - INFO -   判断正确: 是
+2025-03-01 13:52:53,638 - INFO - 问题 15 判断详情:
+2025-03-01 13:52:53,639 - INFO -   问题: 解释一下为什么水在0摄氏度会结冰。
+2025-03-01 13:52:53,640 - INFO -   回答1 (人类): 2
+2025-03-01 13:52:53,640 - INFO -   回答2 (AI): 水分子运动减慢，形成固态晶格。
+2025-03-01 13:52:53,640 - INFO -   判断选择: 1
+2025-03-01 13:52:53,641 - INFO -   判断正确: 是
+2025-03-01 13:52:54,763 - INFO - 问题 16 判断详情:
+2025-03-01 13:52:54,764 - INFO -   问题: 介绍一部你最喜欢的电影，并说明喜欢的原因。
+2025-03-01 13:52:54,765 - INFO -   回答1 (人类): 3
+2025-03-01 13:52:54,765 - INFO -   回答2 (AI): 《盗梦空间》，剧情烧脑，创意独特。
+2025-03-01 13:52:54,765 - INFO -   判断选择: 1
+2025-03-01 13:52:54,765 - INFO -   判断正确: 是
+2025-03-01 13:52:55,919 - INFO - 问题 17 判断详情:
+2025-03-01 13:52:55,920 - INFO -   问题: 你觉得幽默感在人际交往中重要吗？为什么？
+2025-03-01 13:52:55,920 - INFO -   回答1 (人类): 2
+2025-03-01 13:52:55,921 - INFO -   回答2 (AI): 重要，能拉近关系、缓解尴尬。
+2025-03-01 13:52:55,921 - INFO -   判断选择: 1
+2025-03-01 13:52:55,921 - INFO -   判断正确: 是
+2025-03-01 13:52:57,105 - INFO - 问题 18 判断详情:
+2025-03-01 13:52:57,105 - INFO -   问题: 如何培养长期的兴趣爱好？
+2025-03-01 13:52:57,106 - INFO -   回答1 (人类): 3
+2025-03-01 13:52:57,106 - INFO -   回答2 (AI): 坚持练习，设定目标，享受过程。
+2025-03-01 13:52:57,107 - INFO -   判断选择: 1
+2025-03-01 13:52:57,107 - INFO -   判断正确: 是
+2025-03-01 13:52:58,306 - INFO - 问题 19 判断详情:
+2025-03-01 13:52:58,307 - INFO -   问题: 描述一次你克服困难的经历，你从中学到了什么？
+2025-03-01 13:52:58,308 - INFO -   回答1 (人类): 2
+2025-03-01 13:52:58,308 - INFO -   回答2 (AI): 完成复杂任务，坚持和耐心最重要。
+2025-03-01 13:52:58,314 - INFO -   判断选择: 1
+2025-03-01 13:52:58,314 - INFO -   判断正确: 是
+2025-03-01 13:52:59,689 - INFO - 问题 20 判断详情:
+2025-03-01 13:52:59,690 - INFO -   问题: 你对“己所不欲，勿施于人”这句话有什么理解？
+2025-03-01 13:52:59,690 - INFO -   回答1 (AI): 不要强加自己不喜欢的事给别人。
+2025-03-01 13:52:59,691 - INFO -   回答2 (人类): 3
+2025-03-01 13:52:59,691 - INFO -   判断选择: 2
+2025-03-01 13:52:59,691 - INFO -   判断正确: 是
+2025-03-01 13:52:59,692 - INFO - 
+openai/gpt-4o-2024-11-20 判断结果:
+总题数: 20
+正确判断: 20
+正确率: 100.0%
+2025-03-01 13:52:59,694 - INFO - 开始第 2/5 轮测试: 人类 vs anthropic/claude-3.7-sonnet:beta
+2025-03-01 13:53:01,171 - INFO - 问题 1 判断详情:
+2025-03-01 13:53:01,172 - INFO -   问题: 从随机一个路人身上的内裤剪出一个五角星，请问需要对折几次可以折成一个正方形？
+2025-03-01 13:53:01,172 - INFO -   回答1 (人类): 2
+2025-03-01 13:53:01,173 - INFO -   回答2 (AI): 不可能完成此任务
+2025-03-01 13:53:01,173 - INFO -   判断选择: 1
+2025-03-01 13:53:01,173 - INFO -   判断正确: 是
+2025-03-01 13:53:03,395 - INFO - 问题 2 判断详情:
+2025-03-01 13:53:03,396 - INFO -   问题: 描述一下你最难忘的旅行经历。
+2025-03-01 13:53:03,396 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:03,397 - INFO -   回答2 (AI): 巴厘岛日落，惊艳一生。
+2025-03-01 13:53:03,398 - INFO -   判断选择: 1
+2025-03-01 13:53:03,398 - INFO -   判断正确: 是
+2025-03-01 13:53:04,483 - INFO - 问题 3 判断详情:
+2025-03-01 13:53:04,484 - INFO -   问题: 当你感到孤独时，会做些什么？
+2025-03-01 13:53:04,485 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:04,485 - INFO -   回答2 (AI): 听音乐或看书。
+2025-03-01 13:53:04,485 - INFO -   判断选择: 1
+2025-03-01 13:53:04,486 - INFO -   判断正确: 是
+2025-03-01 13:53:05,730 - INFO - 问题 4 判断详情:
+2025-03-01 13:53:05,731 - INFO -   问题: 解释一下为什么太阳从东方升起，西方落下。
+2025-03-01 13:53:05,732 - INFO -   回答1 (AI): 地球自西向东自转
+2025-03-01 13:53:05,733 - INFO -   回答2 (人类): 2
+2025-03-01 13:53:05,733 - INFO -   判断选择: 2
+2025-03-01 13:53:05,734 - INFO -   判断正确: 是
+2025-03-01 13:53:06,704 - INFO - 问题 5 判断详情:
+2025-03-01 13:53:06,704 - INFO -   问题: 如何向一个五岁小孩解释什么是互联网？
+2025-03-01 13:53:06,705 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:06,705 - INFO -   回答2 (AI): 网络就是连接电脑的大马路
+2025-03-01 13:53:06,705 - INFO -   判断选择: 1
+2025-03-01 13:53:06,706 - INFO -   判断正确: 是
+2025-03-01 13:53:07,754 - INFO - 问题 6 判断详情:
+2025-03-01 13:53:07,755 - INFO -   问题: 你能说出三种中国传统节日的习俗吗？
+2025-03-01 13:53:07,755 - INFO -   回答1 (AI): 贴春联、赏月吃月饼、吃粽子
+2025-03-01 13:53:07,755 - INFO -   回答2 (人类): 2
+2025-03-01 13:53:07,755 - INFO -   判断选择: 2
+2025-03-01 13:53:07,756 - INFO -   判断正确: 是
+2025-03-01 13:53:08,749 - INFO - 问题 7 判断详情:
+2025-03-01 13:53:08,750 - INFO -   问题: 如果有机会穿越，你想去哪个时代，为什么？
+2025-03-01 13:53:08,752 - INFO -   回答1 (AI): 文艺复兴，见证人类创造力巅峰。
+2025-03-01 13:53:08,752 - INFO -   回答2 (人类): 1
+2025-03-01 13:53:08,752 - INFO -   判断选择: 2
+2025-03-01 13:53:08,753 - INFO -   判断正确: 是
+2025-03-01 13:53:09,608 - INFO - 问题 8 判断详情:
+2025-03-01 13:53:09,609 - INFO -   问题: 讲述一个你最近听到的有趣笑话。
+2025-03-01 13:53:09,609 - INFO -   回答1 (AI): 夫妻吵架，丈夫住医院。
+2025-03-01 13:53:09,609 - INFO -   回答2 (人类): 2
+2025-03-01 13:53:09,610 - INFO -   判断选择: 2
+2025-03-01 13:53:09,610 - INFO -   判断正确: 是
+2025-03-01 13:53:10,849 - INFO - 问题 9 判断详情:
+2025-03-01 13:53:10,850 - INFO -   问题: 谈谈你对人工智能未来发展的看法。
+2025-03-01 13:53:10,850 - INFO -   回答1 (AI): AI将快速发展并改变世界。
+2025-03-01 13:53:10,851 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:10,851 - INFO -   判断选择: 2
+2025-03-01 13:53:10,851 - INFO -   判断正确: 是
+2025-03-01 13:53:11,917 - INFO - 问题 10 判断详情:
+2025-03-01 13:53:11,918 - INFO -   问题: 为什么人们会喜欢听音乐？
+2025-03-01 13:53:11,918 - INFO -   回答1 (AI): 音乐触动情感共鸣
+2025-03-01 13:53:11,919 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:11,919 - INFO -   判断选择: 2
+2025-03-01 13:53:11,920 - INFO -   判断正确: 是
+2025-03-01 13:53:13,570 - INFO - 问题 11 判断详情:
+2025-03-01 13:53:13,572 - INFO -   问题: 请描述一下你眼中的理想生活。
+2025-03-01 13:53:13,572 - INFO -   回答1 (AI): 平静悠闲，有书有茶有爱人。
+2025-03-01 13:53:13,572 - INFO -   回答2 (人类): 1
+2025-03-01 13:53:13,573 - INFO -   判断选择: 2
+2025-03-01 13:53:13,573 - INFO -   判断正确: 是
+2025-03-01 13:53:14,630 - INFO - 问题 12 判断详情:
+2025-03-01 13:53:14,632 - INFO -   问题: 如何在不使用导航的情况下，从一个陌生城市的机场到达市中心？
+2025-03-01 13:53:14,632 - INFO -   回答1 (AI): 问路坐机场大巴或出租车
+2025-03-01 13:53:14,633 - INFO -   回答2 (人类): 2
+2025-03-01 13:53:14,634 - INFO -   判断选择: 2
+2025-03-01 13:53:14,634 - INFO -   判断正确: 是
+2025-03-01 13:53:15,723 - INFO - 问题 13 判断详情:
+2025-03-01 13:53:15,724 - INFO -   问题: 你能理解“当局者迷，旁观者清”这句话的含义吗？请举例说明。
+2025-03-01 13:53:15,724 - INFO -   回答1 (AI): 身在其中难客观，外部视角更清晰。
+2025-03-01 13:53:15,726 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:15,727 - INFO -   判断选择: 2
+2025-03-01 13:53:15,727 - INFO -   判断正确: 是
+2025-03-01 13:53:16,729 - INFO - 问题 14 判断详情:
+2025-03-01 13:53:16,730 - INFO -   问题: 当你和朋友产生矛盾时，你会如何处理？
+2025-03-01 13:53:16,730 - INFO -   回答1 (AI): 坦诚沟通，寻求和解。
+2025-03-01 13:53:16,731 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:16,731 - INFO -   判断选择: 2
+2025-03-01 13:53:16,731 - INFO -   判断正确: 是
+2025-03-01 13:53:17,943 - INFO - 问题 15 判断详情:
+2025-03-01 13:53:17,943 - INFO -   问题: 解释一下为什么水在0摄氏度会结冰。
+2025-03-01 13:53:17,944 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:17,944 - INFO -   回答2 (AI): 分子运动减缓形成晶体结构
+2025-03-01 13:53:17,944 - INFO -   判断选择: 1
+2025-03-01 13:53:17,945 - INFO -   判断正确: 是
+2025-03-01 13:53:19,099 - INFO - 问题 16 判断详情:
+2025-03-01 13:53:19,100 - INFO -   问题: 介绍一部你最喜欢的电影，并说明喜欢的原因。
+2025-03-01 13:53:19,104 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:19,105 - INFO -   回答2 (AI): 盗梦空间，情节烧脑，特效震撼。
+2025-03-01 13:53:19,106 - INFO -   判断选择: 1
+2025-03-01 13:53:19,106 - INFO -   判断正确: 是
+2025-03-01 13:53:20,548 - INFO - 问题 17 判断详情:
+2025-03-01 13:53:20,584 - INFO -   问题: 你觉得幽默感在人际交往中重要吗？为什么？
+2025-03-01 13:53:20,610 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:20,613 - INFO -   回答2 (AI): 很重要，能拉近关系。
+2025-03-01 13:53:20,614 - INFO -   判断选择: 1
+2025-03-01 13:53:20,615 - INFO -   判断正确: 是
+2025-03-01 13:53:22,048 - INFO - 问题 18 判断详情:
+2025-03-01 13:53:22,050 - INFO -   问题: 如何培养长期的兴趣爱好？
+2025-03-01 13:53:22,050 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:22,050 - INFO -   回答2 (AI): 持续投入，找同好，设目标。
+2025-03-01 13:53:22,051 - INFO -   判断选择: 1
+2025-03-01 13:53:22,051 - INFO -   判断正确: 是
+2025-03-01 13:53:23,260 - INFO - 问题 19 判断详情:
+2025-03-01 13:53:23,261 - INFO -   问题: 描述一次你克服困难的经历，你从中学到了什么？
+2025-03-01 13:53:23,261 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:23,261 - INFO -   回答2 (AI): 编程遇瓶颈，坚持突破。学会耐心解难。
+2025-03-01 13:53:23,262 - INFO -   判断选择: 1
+2025-03-01 13:53:23,262 - INFO -   判断正确: 是
+2025-03-01 13:53:25,398 - INFO - 问题 20 判断详情:
+2025-03-01 13:53:25,400 - INFO -   问题: 你对“己所不欲，勿施于人”这句话有什么理解？
+2025-03-01 13:53:25,401 - INFO -   回答1 (AI): 理解他人，尊重边界
+2025-03-01 13:53:25,401 - INFO -   回答2 (人类): 2
+2025-03-01 13:53:25,401 - INFO -   判断选择: 2
+2025-03-01 13:53:25,402 - INFO -   判断正确: 是
+2025-03-01 13:53:25,404 - INFO - 
+anthropic/claude-3.7-sonnet:beta 判断结果:
+总题数: 20
+正确判断: 20
+正确率: 100.0%
+2025-03-01 13:53:25,404 - INFO - 开始第 3/5 轮测试: 人类 vs google/gemini-2.0-pro-exp-02-05:free
+2025-03-01 13:53:36,507 - INFO - 问题 1 判断详情:
+2025-03-01 13:53:36,507 - INFO -   问题: 从随机一个路人身上的内裤剪出一个五角星，请问需要对折几次可以折成一个正方形？
+2025-03-01 13:53:36,508 - INFO -   回答1 (AI): 一次都不需要。
+
+2025-03-01 13:53:36,508 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:36,510 - INFO -   判断选择: 1
+2025-03-01 13:53:36,511 - INFO -   判断正确: 否
+2025-03-01 13:53:40,381 - INFO - 问题 2 判断详情:
+2025-03-01 13:53:40,382 - INFO -   问题: 描述一下你最难忘的旅行经历。
+2025-03-01 13:53:40,382 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:40,382 - INFO -   回答2 (AI): 去过沙漠，很热，沙子很烫。
+
+2025-03-01 13:53:40,383 - INFO -   判断选择: 1
+2025-03-01 13:53:40,383 - INFO -   判断正确: 是
+2025-03-01 13:53:40,573 - INFO - 问题 3 判断详情:
+2025-03-01 13:53:40,573 - INFO -   问题: 当你感到孤独时，会做些什么？
+2025-03-01 13:53:40,573 - INFO -   回答1 (AI): 看书，或者写代码。
+
+2025-03-01 13:53:40,574 - INFO -   回答2 (人类): 2
+2025-03-01 13:53:40,574 - INFO -   判断选择: 1
+2025-03-01 13:53:40,575 - INFO -   判断正确: 否
+2025-03-01 13:53:40,785 - INFO - 问题 4 判断详情:
+2025-03-01 13:53:40,786 - INFO -   问题: 解释一下为什么太阳从东方升起，西方落下。
+2025-03-01 13:53:40,787 - INFO -   回答1 (AI): 地球自转，自西向东。
+
+2025-03-01 13:53:40,788 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:40,788 - INFO -   判断选择: 1
+2025-03-01 13:53:40,789 - INFO -   判断正确: 否
+2025-03-01 13:53:40,971 - INFO - 问题 5 判断详情:
+2025-03-01 13:53:40,972 - INFO -   问题: 如何向一个五岁小孩解释什么是互联网？
+2025-03-01 13:53:40,973 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:40,973 - INFO -   回答2 (AI): 连接电脑，能看东西、玩游戏。
+
+2025-03-01 13:53:40,973 - INFO -   判断选择: 1
+2025-03-01 13:53:40,974 - INFO -   判断正确: 是
+2025-03-01 13:53:41,174 - INFO - 问题 6 判断详情:
+2025-03-01 13:53:41,175 - INFO -   问题: 你能说出三种中国传统节日的习俗吗？
+2025-03-01 13:53:41,175 - INFO -   回答1 (AI): 春节贴春联，元宵闹花灯，端午赛龙舟。
+
+2025-03-01 13:53:41,176 - INFO -   回答2 (人类): 1
+2025-03-01 13:53:41,176 - INFO -   判断选择: 1
+2025-03-01 13:53:41,177 - INFO -   判断正确: 否
+2025-03-01 13:53:41,373 - INFO - 问题 7 判断详情:
+2025-03-01 13:53:41,373 - INFO -   问题: 如果有机会穿越，你想去哪个时代，为什么？
+2025-03-01 13:53:41,374 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:41,380 - INFO -   回答2 (AI): 唐朝，因为想看看盛世。
+
+2025-03-01 13:53:41,381 - INFO -   判断选择: 1
+2025-03-01 13:53:41,381 - INFO -   判断正确: 是
+2025-03-01 13:53:41,540 - INFO - 问题 8 判断详情:
+2025-03-01 13:53:41,541 - INFO -   问题: 讲述一个你最近听到的有趣笑话。
+2025-03-01 13:53:41,541 - INFO -   回答1 (AI): 程序员买包子，没馅。
+
+2025-03-01 13:53:41,542 - INFO -   回答2 (人类): 1
+2025-03-01 13:53:41,542 - INFO -   判断选择: 1
+2025-03-01 13:53:41,544 - INFO -   判断正确: 否
+2025-03-01 13:53:41,844 - INFO - 问题 9 判断详情:
+2025-03-01 13:53:41,845 - INFO -   问题: 谈谈你对人工智能未来发展的看法。
+2025-03-01 13:53:41,845 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:41,846 - INFO -   回答2 (AI): 会改变世界，影响深远。
+
+2025-03-01 13:53:41,846 - INFO -   判断选择: 1
+2025-03-01 13:53:41,847 - INFO -   判断正确: 是
+2025-03-01 13:53:42,295 - INFO - 问题 10 判断详情:
+2025-03-01 13:53:42,296 - INFO -   问题: 为什么人们会喜欢听音乐？
+2025-03-01 13:53:42,296 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:42,296 - INFO -   回答2 (AI): 音乐能引发情感共鸣。
+
+2025-03-01 13:53:42,297 - INFO -   判断选择: 1
+2025-03-01 13:53:42,297 - INFO -   判断正确: 是
+2025-03-01 13:53:42,476 - INFO - 问题 11 判断详情:
+2025-03-01 13:53:42,477 - INFO -   问题: 请描述一下你眼中的理想生活。
+2025-03-01 13:53:42,478 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:42,478 - INFO -   回答2 (AI): 有猫，有书，有阳光。
+
+2025-03-01 13:53:42,479 - INFO -   判断选择: 1
+2025-03-01 13:53:42,480 - INFO -   判断正确: 是
+2025-03-01 13:53:43,095 - INFO - 问题 12 判断详情:
+2025-03-01 13:53:43,096 - INFO -   问题: 如何在不使用导航的情况下，从一个陌生城市的机场到达市中心？
+2025-03-01 13:53:43,097 - INFO -   回答1 (人类): 2
+2025-03-01 13:53:43,097 - INFO -   回答2 (AI): 搭出租车或公共交通。
+
+2025-03-01 13:53:43,098 - INFO -   判断选择: 1
+2025-03-01 13:53:43,098 - INFO -   判断正确: 是
+2025-03-01 13:53:43,275 - INFO - 问题 13 判断详情:
+2025-03-01 13:53:43,276 - INFO -   问题: 你能理解“当局者迷，旁观者清”这句话的含义吗？请举例说明。
+2025-03-01 13:53:43,277 - INFO -   回答1 (AI): 能理解。当局者陷于其中，旁观者更客观。
+
+2025-03-01 13:53:43,287 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:43,288 - INFO -   判断选择: 1
+2025-03-01 13:53:43,289 - INFO -   判断正确: 否
+2025-03-01 13:53:43,543 - INFO - 问题 14 判断详情:
+2025-03-01 13:53:43,544 - INFO -   问题: 当你和朋友产生矛盾时，你会如何处理？
+2025-03-01 13:53:43,544 - INFO -   回答1 (人类): 2
+2025-03-01 13:53:43,545 - INFO -   回答2 (AI): 直接沟通，解决问题。
+
+2025-03-01 13:53:43,545 - INFO -   判断选择: 1
+2025-03-01 13:53:43,545 - INFO -   判断正确: 是
+2025-03-01 13:53:43,764 - INFO - 问题 15 判断详情:
+2025-03-01 13:53:43,765 - INFO -   问题: 解释一下为什么水在0摄氏度会结冰。
+2025-03-01 13:53:43,766 - INFO -   回答1 (AI): 分子动能减弱，氢键更稳定。
+
+2025-03-01 13:53:43,766 - INFO -   回答2 (人类): 1
+2025-03-01 13:53:43,766 - INFO -   判断选择: 1
+2025-03-01 13:53:43,767 - INFO -   判断正确: 否
+2025-03-01 13:53:43,969 - INFO - 问题 16 判断详情:
+2025-03-01 13:53:43,979 - INFO -   问题: 介绍一部你最喜欢的电影，并说明喜欢的原因。
+2025-03-01 13:53:43,980 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:43,981 - INFO -   回答2 (AI): 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 13:53:43,981 - INFO -   判断选择: 1
+2025-03-01 13:53:43,982 - INFO -   判断正确: 是
+2025-03-01 13:53:44,203 - INFO - 问题 17 判断详情:
+2025-03-01 13:53:44,204 - INFO -   问题: 你觉得幽默感在人际交往中重要吗？为什么？
+2025-03-01 13:53:44,205 - INFO -   回答1 (AI): 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 13:53:44,205 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:44,206 - INFO -   判断选择: 1
+2025-03-01 13:53:44,206 - INFO -   判断正确: 否
+2025-03-01 13:53:44,416 - INFO - 问题 18 判断详情:
+2025-03-01 13:53:44,417 - INFO -   问题: 如何培养长期的兴趣爱好？
+2025-03-01 13:53:44,419 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:44,420 - INFO -   回答2 (AI): 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 13:53:44,421 - INFO -   判断选择: 1
+2025-03-01 13:53:44,421 - INFO -   判断正确: 是
+2025-03-01 13:53:44,659 - INFO - 问题 19 判断详情:
+2025-03-01 13:53:44,659 - INFO -   问题: 描述一次你克服困难的经历，你从中学到了什么？
+2025-03-01 13:53:44,660 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:44,660 - INFO -   回答2 (AI): 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 13:53:44,661 - INFO -   判断选择: 1
+2025-03-01 13:53:44,661 - INFO -   判断正确: 是
+2025-03-01 13:53:48,193 - INFO - 问题 20 判断详情:
+2025-03-01 13:53:48,194 - INFO -   问题: 你对“己所不欲，勿施于人”这句话有什么理解？
+2025-03-01 13:53:48,195 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:48,195 - INFO -   回答2 (AI): 抱歉，我遇到了一些问题: 'NoneType' object is not subscriptable
+2025-03-01 13:53:48,195 - INFO -   判断选择: 1
+2025-03-01 13:53:48,196 - INFO -   判断正确: 是
+2025-03-01 13:53:48,197 - INFO - 
+google/gemini-2.0-pro-exp-02-05:free 判断结果:
+总题数: 20
+正确判断: 12
+正确率: 60.0%
+2025-03-01 13:53:48,197 - INFO - 开始第 4/5 轮测试: 人类 vs qwen/qwen-max
+2025-03-01 13:53:48,762 - INFO - 问题 1 判断详情:
+2025-03-01 13:53:48,762 - INFO -   问题: 从随机一个路人身上的内裤剪出一个五角星，请问需要对折几次可以折成一个正方形？
+2025-03-01 13:53:48,764 - INFO -   回答1 (人类): 2
+2025-03-01 13:53:48,764 - INFO -   回答2 (AI): 无法从内裤剪出五角星后折成正方形。
+2025-03-01 13:53:48,765 - INFO -   判断选择: 1
+2025-03-01 13:53:48,765 - INFO -   判断正确: 是
+2025-03-01 13:53:49,406 - INFO - 问题 2 判断详情:
+2025-03-01 13:53:49,406 - INFO -   问题: 描述一下你最难忘的旅行经历。
+2025-03-01 13:53:49,407 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:49,407 - INFO -   回答2 (AI): 独自登顶黄山，日出云海震撼心灵。
+2025-03-01 13:53:49,408 - INFO -   判断选择: 1
+2025-03-01 13:53:49,408 - INFO -   判断正确: 是
+2025-03-01 13:53:49,669 - INFO - 问题 3 判断详情:
+2025-03-01 13:53:49,672 - INFO -   问题: 当你感到孤独时，会做些什么？
+2025-03-01 13:53:49,673 - INFO -   回答1 (人类): 2
+2025-03-01 13:53:49,673 - INFO -   回答2 (AI): 听音乐、看书、散步、思考人生。
+2025-03-01 13:53:49,673 - INFO -   判断选择: 1
+2025-03-01 13:53:49,674 - INFO -   判断正确: 是
+2025-03-01 13:53:49,923 - INFO - 问题 4 判断详情:
+2025-03-01 13:53:49,923 - INFO -   问题: 解释一下为什么太阳从东方升起，西方落下。
+2025-03-01 13:53:49,924 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:49,924 - INFO -   回答2 (AI): 地球自西向东自转，导致太阳东升西落。
+2025-03-01 13:53:49,925 - INFO -   判断选择: 1
+2025-03-01 13:53:49,925 - INFO -   判断正确: 是
+2025-03-01 13:53:50,173 - INFO - 问题 5 判断详情:
+2025-03-01 13:53:50,174 - INFO -   问题: 如何向一个五岁小孩解释什么是互联网？
+2025-03-01 13:53:50,174 - INFO -   回答1 (AI): 电脑互相连接分享信息的地方
+2025-03-01 13:53:50,175 - INFO -   回答2 (人类): 
+2025-03-01 13:53:50,175 - INFO -   判断选择: 1
+2025-03-01 13:53:50,175 - INFO -   判断正确: 否
+2025-03-01 13:53:50,400 - INFO - 问题 6 判断详情:
+2025-03-01 13:53:50,400 - INFO -   问题: 你能说出三种中国传统节日的习俗吗？
+2025-03-01 13:53:50,401 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:50,402 - INFO -   回答2 (AI): 春节贴春联，端午吃粽子，中秋赏月吃月饼。
+2025-03-01 13:53:50,403 - INFO -   判断选择: 1
+2025-03-01 13:53:50,404 - INFO -   判断正确: 是
+2025-03-01 13:53:50,607 - INFO - 问题 7 判断详情:
+2025-03-01 13:53:50,608 - INFO -   问题: 如果有机会穿越，你想去哪个时代，为什么？
+2025-03-01 13:53:50,608 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:50,609 - INFO -   回答2 (AI): 未来时代，探索未知科技。
+2025-03-01 13:53:50,609 - INFO -   判断选择: 1
+2025-03-01 13:53:50,610 - INFO -   判断正确: 是
+2025-03-01 13:53:50,820 - INFO - 问题 8 判断详情:
+2025-03-01 13:53:50,821 - INFO -   问题: 讲述一个你最近听到的有趣笑话。
+2025-03-01 13:53:50,821 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:50,822 - INFO -   回答2 (AI): 一只猪去旅游，回来变成了烤乳猪。
+2025-03-01 13:53:50,822 - INFO -   判断选择: 1
+2025-03-01 13:53:50,823 - INFO -   判断正确: 是
+2025-03-01 13:53:51,040 - INFO - 问题 9 判断详情:
+2025-03-01 13:53:51,040 - INFO -   问题: 谈谈你对人工智能未来发展的看法。
+2025-03-01 13:53:51,041 - INFO -   回答1 (人类): 2
+2025-03-01 13:53:51,041 - INFO -   回答2 (AI): 人工智能会深刻改变各行业，带来更多创新和效率提升。
+2025-03-01 13:53:51,041 - INFO -   判断选择: 1
+2025-03-01 13:53:51,042 - INFO -   判断正确: 是
+2025-03-01 13:53:51,365 - INFO - 问题 10 判断详情:
+2025-03-01 13:53:51,414 - INFO -   问题: 为什么人们会喜欢听音乐？
+2025-03-01 13:53:51,419 - INFO -   回答1 (AI): 音乐能激发情感，带来快乐和慰藉。
+2025-03-01 13:53:51,424 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:51,521 - INFO -   判断选择: 1
+2025-03-01 13:53:51,542 - INFO -   判断正确: 否
+2025-03-01 13:53:51,578 - INFO - 问题 11 判断详情:
+2025-03-01 13:53:51,579 - INFO -   问题: 请描述一下你眼中的理想生活。
+2025-03-01 13:53:51,579 - INFO -   回答1 (AI): 自由自在，充实有趣，无忧无虑。
+2025-03-01 13:53:51,585 - INFO -   回答2 (人类): 1
+2025-03-01 13:53:51,604 - INFO -   判断选择: 1
+2025-03-01 13:53:51,605 - INFO -   判断正确: 否
+2025-03-01 13:53:51,686 - INFO - 问题 12 判断详情:
+2025-03-01 13:53:51,687 - INFO -   问题: 如何在不使用导航的情况下，从一个陌生城市的机场到达市中心？
+2025-03-01 13:53:51,688 - INFO -   回答1 (AI): 直接找机场大巴或出租车，快速直达市中心。
+2025-03-01 13:53:51,688 - INFO -   回答2 (人类): 11
+2025-03-01 13:53:51,689 - INFO -   判断选择: 1
+2025-03-01 13:53:51,689 - INFO -   判断正确: 否
+2025-03-01 13:53:52,029 - INFO - 问题 13 判断详情:
+2025-03-01 13:53:52,031 - INFO -   问题: 你能理解“当局者迷，旁观者清”这句话的含义吗？请举例说明。
+2025-03-01 13:53:52,032 - INFO -   回答1 (人类): 2
+2025-03-01 13:53:52,036 - INFO -   回答2 (AI): 能理解。下棋时，观棋者往往比对弈者更清楚局势。
+2025-03-01 13:53:52,036 - INFO -   判断选择: 1
+2025-03-01 13:53:52,037 - INFO -   判断正确: 是
+2025-03-01 13:53:52,094 - INFO - 问题 14 判断详情:
+2025-03-01 13:53:52,098 - INFO -   问题: 当你和朋友产生矛盾时，你会如何处理？
+2025-03-01 13:53:52,101 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:52,102 - INFO -   回答2 (AI): 直接沟通，快速解决，不拖泥带水。
+2025-03-01 13:53:52,102 - INFO -   判断选择: 1
+2025-03-01 13:53:52,103 - INFO -   判断正确: 是
+2025-03-01 13:53:52,384 - INFO - 问题 15 判断详情:
+2025-03-01 13:53:52,385 - INFO -   问题: 解释一下为什么水在0摄氏度会结冰。
+2025-03-01 13:53:52,385 - INFO -   回答1 (人类): 2
+2025-03-01 13:53:52,386 - INFO -   回答2 (AI): 水分子在低温下形成规则晶体结构。
+2025-03-01 13:53:52,386 - INFO -   判断选择: 1
+2025-03-01 13:53:52,386 - INFO -   判断正确: 是
+2025-03-01 13:53:52,894 - INFO - 问题 16 判断详情:
+2025-03-01 13:53:52,895 - INFO -   问题: 介绍一部你最喜欢的电影，并说明喜欢的原因。
+2025-03-01 13:53:52,896 - INFO -   回答1 (AI): 肖申克的救赎，因为希望和自由最动人。
+2025-03-01 13:53:52,896 - INFO -   回答2 (人类): 1
+2025-03-01 13:53:52,896 - INFO -   判断选择: 1
+2025-03-01 13:53:52,897 - INFO -   判断正确: 否
+2025-03-01 13:53:53,075 - INFO - 问题 17 判断详情:
+2025-03-01 13:53:53,076 - INFO -   问题: 你觉得幽默感在人际交往中重要吗？为什么？
+2025-03-01 13:53:53,076 - INFO -   回答1 (AI): 重要。幽默感拉近距离，让交流轻松愉快。
+2025-03-01 13:53:53,077 - INFO -   回答2 (人类): 1
+2025-03-01 13:53:53,077 - INFO -   判断选择: 1
+2025-03-01 13:53:53,078 - INFO -   判断正确: 否
+2025-03-01 13:53:53,319 - INFO - 问题 18 判断详情:
+2025-03-01 13:53:53,320 - INFO -   问题: 如何培养长期的兴趣爱好？
+2025-03-01 13:53:53,320 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:53,321 - INFO -   回答2 (AI): 找到热爱，持续投入，享受过程。
+2025-03-01 13:53:53,321 - INFO -   判断选择: 1
+2025-03-01 13:53:53,322 - INFO -   判断正确: 是
+2025-03-01 13:53:53,543 - INFO - 问题 19 判断详情:
+2025-03-01 13:53:53,544 - INFO -   问题: 描述一次你克服困难的经历，你从中学到了什么？
+2025-03-01 13:53:53,544 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:53,545 - INFO -   回答2 (AI): 学会坚持，不断尝试，最终成功。
+2025-03-01 13:53:53,545 - INFO -   判断选择: 1
+2025-03-01 13:53:53,546 - INFO -   判断正确: 是
+2025-03-01 13:53:53,742 - INFO - 问题 20 判断详情:
+2025-03-01 13:53:53,743 - INFO -   问题: 你对“己所不欲，勿施于人”这句话有什么理解？
+2025-03-01 13:53:53,743 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:53,747 - INFO -   回答2 (AI): 做人要善良，不伤害他人。
+2025-03-01 13:53:53,748 - INFO -   判断选择: 1
+2025-03-01 13:53:53,750 - INFO -   判断正确: 是
+2025-03-01 13:53:53,752 - INFO - 
+qwen/qwen-max 判断结果:
+总题数: 20
+正确判断: 14
+正确率: 70.0%
+2025-03-01 13:53:53,755 - INFO - 开始第 5/5 轮测试: 人类 vs deepseek/deepseek-chat:free
+2025-03-01 13:53:53,966 - INFO - 问题 1 判断详情:
+2025-03-01 13:53:53,967 - INFO -   问题: 从随机一个路人身上的内裤剪出一个五角星，请问需要对折几次可以折成一个正方形？
+2025-03-01 13:53:53,967 - INFO -   回答1 (AI): 无法直接折叠成正方形。
+2025-03-01 13:53:53,968 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:53,968 - INFO -   判断选择: 1
+2025-03-01 13:53:53,969 - INFO -   判断正确: 否
+2025-03-01 13:53:54,140 - INFO - 问题 2 判断详情:
+2025-03-01 13:53:54,140 - INFO -   问题: 描述一下你最难忘的旅行经历。
+2025-03-01 13:53:54,141 - INFO -   回答1 (人类): 2
+2025-03-01 13:53:54,141 - INFO -   回答2 (AI): 西藏骑行，挑战极限
+2025-03-01 13:53:54,142 - INFO -   判断选择: 1
+2025-03-01 13:53:54,142 - INFO -   判断正确: 是
+2025-03-01 13:53:54,342 - INFO - 问题 3 判断详情:
+2025-03-01 13:53:54,343 - INFO -   问题: 当你感到孤独时，会做些什么？
+2025-03-01 13:53:54,343 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:54,344 - INFO -   回答2 (AI): 看书，散步，听音乐。
+2025-03-01 13:53:54,344 - INFO -   判断选择: 1
+2025-03-01 13:53:54,345 - INFO -   判断正确: 是
+2025-03-01 13:53:54,605 - INFO - 问题 4 判断详情:
+2025-03-01 13:53:54,606 - INFO -   问题: 解释一下为什么太阳从东方升起，西方落下。
+2025-03-01 13:53:54,606 - INFO -   回答1 (人类): 2
+2025-03-01 13:53:54,606 - INFO -   回答2 (AI): 地球自转所致。
+2025-03-01 13:53:54,610 - INFO -   判断选择: 1
+2025-03-01 13:53:54,611 - INFO -   判断正确: 是
+2025-03-01 13:53:54,768 - INFO - 问题 5 判断详情:
+2025-03-01 13:53:54,770 - INFO -   问题: 如何向一个五岁小孩解释什么是互联网？
+2025-03-01 13:53:54,787 - INFO -   回答1 (人类): 2
+2025-03-01 13:53:54,788 - INFO -   回答2 (AI): 互联网是玩具大超市
+2025-03-01 13:53:54,789 - INFO -   判断选择: 1
+2025-03-01 13:53:54,789 - INFO -   判断正确: 是
+2025-03-01 13:53:54,954 - INFO - 问题 6 判断详情:
+2025-03-01 13:53:54,955 - INFO -   问题: 你能说出三种中国传统节日的习俗吗？
+2025-03-01 13:53:54,955 - INFO -   回答1 (AI): 贴春联、吃粽子、赏月亮。
+2025-03-01 13:53:54,956 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:54,956 - INFO -   判断选择: 1
+2025-03-01 13:53:54,957 - INFO -   判断正确: 否
+2025-03-01 13:53:55,168 - INFO - 问题 7 判断详情:
+2025-03-01 13:53:55,169 - INFO -   问题: 如果有机会穿越，你想去哪个时代，为什么？
+2025-03-01 13:53:55,170 - INFO -   回答1 (AI): 宋朝，科技发达，文化繁荣。
+2025-03-01 13:53:55,170 - INFO -   回答2 (人类): 2
+2025-03-01 13:53:55,171 - INFO -   判断选择: 1
+2025-03-01 13:53:55,171 - INFO -   判断正确: 否
+2025-03-01 13:53:55,414 - INFO - 问题 8 判断详情:
+2025-03-01 13:53:55,415 - INFO -   问题: 讲述一个你最近听到的有趣笑话。
+2025-03-01 13:53:55,416 - INFO -   回答1 (人类): 2
+2025-03-01 13:53:55,417 - INFO -   回答2 (AI): 
+2025-03-01 13:53:55,417 - INFO -   判断选择: 1
+2025-03-01 13:53:55,418 - INFO -   判断正确: 是
+2025-03-01 13:53:55,632 - INFO - 问题 9 判断详情:
+2025-03-01 13:53:55,632 - INFO -   问题: 谈谈你对人工智能未来发展的看法。
+2025-03-01 13:53:55,633 - INFO -   回答1 (人类): 2
+2025-03-01 13:53:55,633 - INFO -   回答2 (AI): 潜力巨大，但需谨慎对待。
+2025-03-01 13:53:55,633 - INFO -   判断选择: 1
+2025-03-01 13:53:55,638 - INFO -   判断正确: 是
+2025-03-01 13:53:55,828 - INFO - 问题 10 判断详情:
+2025-03-01 13:53:55,828 - INFO -   问题: 为什么人们会喜欢听音乐？
+2025-03-01 13:53:55,829 - INFO -   回答1 (AI): 音乐能触发情感共鸣。
+2025-03-01 13:53:55,829 - INFO -   回答2 (人类): 1
+2025-03-01 13:53:55,830 - INFO -   判断选择: 1
+2025-03-01 13:53:55,830 - INFO -   判断正确: 否
+2025-03-01 13:53:56,049 - INFO - 问题 11 判断详情:
+2025-03-01 13:53:56,050 - INFO -   问题: 请描述一下你眼中的理想生活。
+2025-03-01 13:53:56,050 - INFO -   回答1 (AI): 自由自在，做喜欢的事。
+2025-03-01 13:53:56,051 - INFO -   回答2 (人类): 1
+2025-03-01 13:53:56,051 - INFO -   判断选择: 1
+2025-03-01 13:53:56,051 - INFO -   判断正确: 否
+2025-03-01 13:53:56,229 - INFO - 问题 12 判断详情:
+2025-03-01 13:53:56,230 - INFO -   问题: 如何在不使用导航的情况下，从一个陌生城市的机场到达市中心？
+2025-03-01 13:53:56,230 - INFO -   回答1 (AI): 坐机场大巴或打车最方便。
+2025-03-01 13:53:56,231 - INFO -   回答2 (人类): 2
+2025-03-01 13:53:56,231 - INFO -   判断选择: 1
+2025-03-01 13:53:56,231 - INFO -   判断正确: 否
+2025-03-01 13:53:56,459 - INFO - 问题 13 判断详情:
+2025-03-01 13:53:56,459 - INFO -   问题: 你能理解“当局者迷，旁观者清”这句话的含义吗？请举例说明。
+2025-03-01 13:53:56,459 - INFO -   回答1 (AI): 下棋人晕，看棋人醒。
+2025-03-01 13:53:56,460 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:56,460 - INFO -   判断选择: 1
+2025-03-01 13:53:56,461 - INFO -   判断正确: 否
+2025-03-01 13:53:56,658 - INFO - 问题 14 判断详情:
+2025-03-01 13:53:56,658 - INFO -   问题: 当你和朋友产生矛盾时，你会如何处理？
+2025-03-01 13:53:56,659 - INFO -   回答1 (AI): 直接沟通，解决误会。
+2025-03-01 13:53:56,659 - INFO -   回答2 (人类): 2
+2025-03-01 13:53:56,660 - INFO -   判断选择: 1
+2025-03-01 13:53:56,660 - INFO -   判断正确: 否
+2025-03-01 13:53:56,915 - INFO - 问题 15 判断详情:
+2025-03-01 13:53:56,915 - INFO -   问题: 解释一下为什么水在0摄氏度会结冰。
+2025-03-01 13:53:56,915 - INFO -   回答1 (人类): 1
+2025-03-01 13:53:56,916 - INFO -   回答2 (AI): 温度降至冰点，分子运动减慢。
+2025-03-01 13:53:56,916 - INFO -   判断选择: 1
+2025-03-01 13:53:56,917 - INFO -   判断正确: 是
+2025-03-01 13:53:57,193 - INFO - 问题 16 判断详情:
+2025-03-01 13:53:57,206 - INFO -   问题: 介绍一部你最喜欢的电影，并说明喜欢的原因。
+2025-03-01 13:53:57,207 - INFO -   回答1 (AI): 《肖申克》 希望永不灭。
+2025-03-01 13:53:57,208 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:57,209 - INFO -   判断选择: 1
+2025-03-01 13:53:57,210 - INFO -   判断正确: 否
+2025-03-01 13:53:57,500 - INFO - 问题 17 判断详情:
+2025-03-01 13:53:57,500 - INFO -   问题: 你觉得幽默感在人际交往中重要吗？为什么？
+2025-03-01 13:53:57,501 - INFO -   回答1 (AI): 非常重要，能缓解尴尬
+2025-03-01 13:53:57,501 - INFO -   回答2 (人类): 1
+2025-03-01 13:53:57,502 - INFO -   判断选择: 1
+2025-03-01 13:53:57,502 - INFO -   判断正确: 否
+2025-03-01 13:53:57,583 - INFO - 问题 18 判断详情:
+2025-03-01 13:53:57,584 - INFO -   问题: 如何培养长期的兴趣爱好？
+2025-03-01 13:53:57,584 - INFO -   回答1 (人类): 3
+2025-03-01 13:53:57,585 - INFO -   回答2 (AI): 坚持每天做，不断挑战新高度。
+2025-03-01 13:53:57,585 - INFO -   判断选择: 1
+2025-03-01 13:53:57,588 - INFO -   判断正确: 是
+2025-03-01 13:53:57,768 - INFO - 问题 19 判断详情:
+2025-03-01 13:53:57,768 - INFO -   问题: 描述一次你克服困难的经历，你从中学到了什么？
+2025-03-01 13:53:57,769 - INFO -   回答1 (AI): 
+2025-03-01 13:53:57,769 - INFO -   回答2 (人类): 3
+2025-03-01 13:53:57,769 - INFO -   判断选择: 1
+2025-03-01 13:53:57,770 - INFO -   判断正确: 否
+2025-03-01 13:53:57,981 - INFO - 问题 20 判断详情:
+2025-03-01 13:53:57,982 - INFO -   问题: 你对“己所不欲，勿施于人”这句话有什么理解？
+2025-03-01 13:53:57,982 - INFO -   回答1 (AI): 换位思考，将心比心。
+2025-03-01 13:53:57,983 - INFO -   回答2 (人类): 2
+2025-03-01 13:53:57,984 - INFO -   判断选择: 1
+2025-03-01 13:53:57,984 - INFO -   判断正确: 否
+2025-03-01 13:53:57,985 - INFO - 
+deepseek/deepseek-chat:free 判断结果:
+总题数: 20
+正确判断: 8
+正确率: 40.0%
+2025-03-01 13:53:57,986 - INFO - 保存详细对比记录到: comparison_20250301_134854.txt
+2025-03-01 13:53:57,990 - INFO - 保存判断结果到: results_20250301_134854.json
+2025-03-01 13:53:58,005 - INFO - 
+=== 最终结果统计 ===
+2025-03-01 13:53:58,010 - INFO - 
+openai/gpt-4o-2024-11-20:
+2025-03-01 13:53:58,010 - INFO - 正确判断: 20/20
+2025-03-01 13:53:58,012 - INFO - 正确率: 100.0%
+2025-03-01 13:53:58,014 - INFO - 
+anthropic/claude-3.7-sonnet:beta:
+2025-03-01 13:53:58,014 - INFO - 正确判断: 20/20
+2025-03-01 13:53:58,015 - INFO - 正确率: 100.0%
+2025-03-01 13:53:58,016 - INFO - 
+google/gemini-2.0-pro-exp-02-05:free:
+2025-03-01 13:53:58,016 - INFO - 正确判断: 12/20
+2025-03-01 13:53:58,017 - INFO - 正确率: 60.0%
+2025-03-01 13:53:58,018 - INFO - 
+qwen/qwen-max:
+2025-03-01 13:53:58,019 - INFO - 正确判断: 14/20
+2025-03-01 13:53:58,019 - INFO - 正确率: 70.0%
+2025-03-01 13:53:58,020 - INFO - 
+deepseek/deepseek-chat:free:
+2025-03-01 13:53:58,020 - INFO - 正确判断: 8/20
+2025-03-01 13:53:58,021 - INFO - 正确率: 40.0%
+2025-03-01 13:53:58,022 - INFO - 
+结论文件已保存到: conclusion_20250301_134854.md
+2025-03-01 13:53:58,023 - INFO - === 图灵测试结束 ===

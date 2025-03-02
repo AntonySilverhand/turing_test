@@ -1,0 +1,136 @@
+{
+  "timestamp": "20250301_210558",
+  "total_questions": 20,
+  "participants": [
+    "zy"
+  ],
+  "models": {
+    "openai/gpt-4o-2024-11-20": {
+      "model_name": "openai/gpt-4o-2024-11-20",
+      "correct_guesses": 17,
+      "accuracy": 0.85,
+      "results": [
+        {
+          "question_id": 1,
+          "correct": true,
+          "judge_choice": 2,
+          "is_swapped": true
+        },
+        {
+          "question_id": 2,
+          "correct": true,
+          "judge_choice": 1,
+          "is_swapped": false
+        },
+        {
+          "question_id": 3,
+          "correct": true,
+          "judge_choice": 2,
+          "is_swapped": true
+        },
+        {
+          "question_id": 4,
+          "correct": true,
+          "judge_choice": 2,
+          "is_swapped": true
+        },
+        {
+          "question_id": 5,
+          "correct": true,
+          "judge_choice": 2,
+          "is_swapped": true
+        },
+        {
+          "question_id": 6,
+          "correct": false,
+          "judge_choice": 1,
+          "is_swapped": true
+        },
+        {
+          "question_id": 7,
+          "correct": true,
+          "judge_choice": 2,
+          "is_swapped": true
+        },
+        {
+          "question_id": 8,
+          "correct": true,
+          "judge_choice": 1,
+          "is_swapped": false
+        },
+        {
+          "question_id": 9,
+          "correct": true,
+          "judge_choice": 2,
+          "is_swapped": true
+        },
+        {
+          "question_id": 10,
+          "correct": false,
+          "judge_choice": 2,
+          "is_swapped": false
+        },
+        {
+          "question_id": 11,
+          "correct": true,
+          "judge_choice": 1,
+          "is_swapped": false
+        },
+        {
+          "question_id": 12,
+          "correct": true,
+          "judge_choice": 1,
+          "is_swapped": false
+        },
+        {
+          "question_id": 13,
+          "correct": true,
+          "judge_choice": 1,
+          "is_swapped": false
+        },
+        {
+          "question_id": 14,
+          "correct": true,
+          "judge_choice": 2,
+          "is_swapped": true
+        },
+        {
+          "question_id": 15,
+          "correct": false,
+          "judge_choice": 2,
+          "is_swapped": false
+        },
+        {
+          "question_id": 16,
+          "correct": true,
+          "judge_choice": 1,
+          "is_swapped": false
+        },
+        {
+          "question_id": 17,
+          "correct": true,
+          "judge_choice": 1,
+          "is_swapped": false
+        },
+        {
+          "question_id": 18,
+          "correct": true,
+          "judge_choice": 2,
+          "is_swapped": true
+        },
+        {
+          "question_id": 19,
+          "correct": true,
+          "judge_choice": 1,
+          "is_swapped": false
+        },
+        {
+          "question_id": 20,
+          "correct": true,
+          "judge_choice": 1,
+          "is_swapped": false
+        }
+      ]
+    }
+  }
+}
